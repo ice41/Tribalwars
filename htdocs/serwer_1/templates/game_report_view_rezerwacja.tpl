@@ -1,0 +1,1 @@
+Twoja rezerwacja wioski {$village_link} zakoñczy³a siê powodzeniem.
