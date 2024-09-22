@@ -1,0 +1,104 @@
+.p_main{ position:absolute; z-index:2; left:194px; top:106px; }
+.p_place{ position:absolute; z-index:2; left:334px; top:198px; }
+.p_wood{ position:absolute; z-index:2; left:505px; top:332px; }
+.p_stone{ position:absolute; z-index:2; left:0px; top:333px; }
+.p_iron{ position:absolute; z-index:2; left:2px; top:0px; }
+.p_statue{ position:absolute; z-index:2; left:182px; top:203px; }
+.p_wall{ position:absolute; z-index:1; left:0px; top:0px; }
+.p_farm{ position:absolute; z-index:2; left:237px; top:36px; }
+.p_hide{ position:absolute; z-index:2; left:180px; top:293px; }
+
+.p_storage{ position:absolute; z-index:2; left:96px; top:221px; }
+.p_market{ position:absolute; z-index:2; left:407px; top:204px; }
+
+.p_barracks{ position:absolute; z-index:2; left:356px; top:113px; }
+.p_stable{ position:absolute; z-index:2; left:219px; top:222px; }
+.p_garage{ position:absolute; z-index:2; left:46px; top:102px; }
+.p_church{ position:absolute; z-index:2; left:179px; top:180px; }
+.p_snob{ position:absolute; z-index:2; left:279px; top:294px; }
+.p_smith{ position:absolute; z-index:2; left:146px; top:44px; }
+
+
+.l_main{  position:absolute; display:none; z-index:3; left:228px; top:135px; }
+.l_place{ position:absolute; display:none; z-index:3; left:371px; top:224px; }
+.l_wood{  position:absolute; display:none; z-index:3; left:510px; top:333px; }
+.l_stone{ position:absolute; display:none; z-index:3; left:16px; top:318px; }
+.l_iron{  position:absolute; display:none; z-index:3; left:29px; top:0px; }
+.l_statue{position:absolute; display:none; z-index:3; left:187px; top:190px; }
+.l_wall{  position:absolute; display:none; z-index:3; left:482px; top:22px; }
+.l_farm{  position:absolute; display:none; z-index:3; left:299px; top:39px; }
+.l_hide{  position:absolute; display:none; z-index:3; left:184px; top:298px; }
+
+.l_storage{ position:absolute; display:none; z-index:3; left:147px; top:223px; }
+.l_market{ position:absolute; display:none; z-index:3; left:500px; top:231px; }
+
+.l_barracks{ position:absolute; display:none; z-index:3; left:478px; top:112px; }
+.l_stable{ position:absolute; display:none; z-index:3; left:277px; top:232px; }
+.l_garage{ position:absolute; display:none; z-index:3; left:123px; top:99px; }
+.l_church{ position:absolute; display:none; z-index:3; left:219px; top:200px; }
+.l_snob{ position:absolute; display:none; z-index:3; left:285px; top:340px; }
+.l_smith{ position:absolute; display:none; z-index:3; left:146px; top:63px; }
+
+div.label { background-color: #598146; padding: 1px; border: 1px black solid; min-width:20px; color: white; z-index:10}
+div.label_night { background-color: #202060; padding: 1px; border: 1px black solid; min-width:20px; color:white}
+div.label a:link	{ color:#DDDDDD }
+div.label a:visited	{  color:#DDDDDD }
+div.label a:active	{  color:#DDDDDD }
+div.label a:hover	{ color:white }
+
+div.label_night a:link { color:#CCCCCC}
+div.label_night a:visited { color:#CCCCCC}
+div.label_night a:active { color:#CCCCCC}
+div.label_night a:hover { color:white}
+div.label img { display:none; }
+div.label_night img { display:none; }
+
+.empty{ position:absolute; z-index:4; left:0px; top:0px; width:600px; height:418px;}
+
+img.align_main{ position:absolute; z-index:7; left:291px; top:107px; }
+img.align_mainflag{ position:absolute; z-index:2; left:291px; top:67px; }
+img.align_barracks{ position:absolute; z-index:7; left:386px; top:216px; }
+img.align_stable{ position:absolute; z-index:2; left:65px; top:207px; }img.align_church{ position:absolute; z-index:2; left:391px; top:99px;  }
+img.align_garage{ position:absolute; z-index:2; left:287px; top:280px; }
+img.align_snob{ position:absolute; z-index:2; left:159px; top:63px; }
+img.align_smith{ position:absolute; z-index:2; left:185px; top:269px; }
+img.align_place{ position:absolute; z-index:2; left:319px; top:208px; }
+img.align_market{ position:absolute; z-index:2; left:211px; top:127px; }
+img.align_wood{ position:absolute; z-index:2; left:480px; top:332px; }
+img.align_stone{ position:absolute; z-index:2; left:8px; top:305px; }
+img.align_iron{ position:absolute; z-index:2; left:10px; top:9px; }
+img.align_farm{ position:absolute; z-index:1; left:450px; top:0px; }
+img.align_storage{ position:absolute; z-index:2; left:105px; top:125px; }
+img.align_hide{ position:absolute; z-index:2; left:245px; top:69px; }
+img.align_wall{ position:absolute; z-index:1; left:13px; top:2px; }
+img.align_statue{ position:absolute; z-index:2; left:257px; top:230px; }
+
+img.align_conversation{ position:absolute; z-index:2; left:222px; top:245px; }
+img.align_guard{ position:absolute; z-index:2; left:177px; top:192px;}
+img.align_juggler{ position:absolute; z-index:2; left:210px; top:225px;}
+img.align_farmer{ position:absolute; z-index:2; left:558px; top:66px;}
+
+.stagetip{display:block;width:21px;height:15px;background-color: #598146;border:1px black solid ;font-size:12px;z-index:100;text-align:center;line-height:13px;}
+.stagetip a:link { color:#CCCCCC}
+.stagetip a:visited { color:#CCCCCC}
+.stagetip a:active { color:#CCCCCC}
+.stagetip a:hover { color:#CCCCCC}
+
+label.label_main{  position:absolute; left:310px; top:55px; }
+
+label.label_church{  position:absolute; left:480px; top:150px; }
+label.label_place{ position:absolute; left:354px; top:188px; }
+label.label_wood{  position:absolute; left:550px; top:323px; }
+label.label_stone{ position:absolute; left:100px; top:395px; }
+label.label_iron{  position:absolute; left:29px; top:0px; }
+label.label_statue{position:absolute; left:245px; top:215px; }
+label.label_wall{  position:absolute; left:440px; top:316px; }
+label.label_farm{  position:absolute; left:450px; top:0px; }
+label.label_hide{  position:absolute; left:245px; top:48px; }
+label.label_storage{ position:absolute; left:100px; top:120px; }
+label.label_market{ position:absolute; left:260px; top:117px; }
+label.label_barracks{ position:absolute; left:482px; top:227px; }
+label.label_stable{ position:absolute; left:65px; top:196px; }
+label.label_garage{ position:absolute; left:370px; top:340px; }
+label.label_snob{ position:absolute; left:168px; top:63px; }
+label.label_smith{ position:absolute; left:205px; top:258px; }

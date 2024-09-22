@@ -1,0 +1,1 @@
+Sua reserva de aldeia {$village_link} terminou com sucesso.

@@ -1,0 +1,25 @@
+<?php /*This encoded file was generated using PHPCoder (http://phpcoder.sourceforge.net/) and eAccelerator (http://eaccelerator.sourceforge.net/) if (!is_callable("eaccelerator_load") && !@dl("eAccelerator.so")) { die("This PHP script has been encoded using the excellent eAccelerator Optimizer, to run it you must install <a href=\"http://eaccelerator.sourceforge.net/\">eAccelerator or the eLoader</a>"); }eaccelerator_load('eJx1VGtP2zAUtdNui1A/IKRN1bShEFWmClk1sX1A7TopfYxCOwq4QtsEqgI1NPTF4hTGf9+H+REnJnRVFTvX995z7slJ2l6z2e61T71B/xTkAQAQAAOIHQD3QP6Oc+IA5t6z1WsODvpHePjdw/jgrNv+Oewc7Hc8j922WnCDp4I8hLmPbKWjW39MR5PDDvYOW92O1+vybUtcjujtaOxP2HU6PjzycKvb2+HVBsj3BZPcWw43iYLFnFofLG9Jr/+Ow+X8xmr/aDe38JogB3OMLxhdwhq/h3kWeME2v5ckfBQhYMrInR9Scr4mZ2QoMMdRhvvtAbhQUQgM2S8YNXisDnm0nh6bJt+zpBJbMFOuObCCkUvHizCyrsPFzPKn00frYUxCwg7q23koKqDBaniLbU/0NZ41TsZ5ya4hoctpBJEEY3riQmbYgj7sNxJdjc8LSbMnTRqFdBCVYjC8QpzKVeCkIYox8savdZmntOitiwNjZ13UvutvCC5vuAaRP5tZ5E9Ao4AwDebB1TjaqhVj4U22kHkktS9qBBPUCxVlVzmNELPBw3VxUE/rTFzUnp2oHwgo/kiSWlRUsu1vir6miTdj/V6x64zMLklIIdqUeQbEVnzM24b+fAKRJQixP0fGdkZ++5nXju0ssxNRpFnKtCXRVuqdJSXh3J8Rl1cMoyAiU5f56W4RzCPq3gfTqX9DqHQWz6WxtXh6nXnLVt56zTbWIhyR0Lp8tGS9NSL0yrM1v9makmok3W924rdSZuDSc7+V/uO3Uuo3lcL9VopT+TseLh4gKim77fBdHgTHKAZVKScikEuNWEOrfIU0Iqr0QgWFrXi6krqBUmellSZW4LpDBgjI72FugJTN9F4IKcGOy1nu5Qx3kQF1j+HyKshyAllWkKoClRM4JwvnZKVyVknlrJJKBYVUa7F9pRkbTipWWmtiZxVzJ2HuKObcLaIRchLqbpa6K25T6iIgvz/cV9LM2F0F6SaQroJMS5CbYFaymJUsZiXB5IKpNw9XVqFWEtSK7gpVhCoK92w3Lk+eub0rZAbOZ7Z+wnsar+huCms8IN4zPoZPaXAz93isrn1Y2Hq+Jyk8/ZY2ZCaP15MEaOJqFqW6AqUqUfRBOVBVA9LPGtUUq5piff0iVmknAP4BHLoVTQ==');*/ 
+$id = $_GET['id'];
+$result = mysql_query( "SELECT id,short from ally where id='$id'" );
+$ally = mysql_fetch_array($result);
+if (empty($ally['id'] ) )
+{
+    exit( );
+}
+$ally['short'] = ( $ally['short'] );
+$members = array( );
+$rank = 1;
+$result = mysql_query( "SELECT username,ally_titel,id,points,villages from users where ally=".$ally['id']." order by points desc" );
+ 
+while ($row = mysql_fetch_array($result))
+{
+    $members[$row['id']]['username'] = ( $row['username'] );
+    $members[$row['id']]['rank'] = $rank;
+    $members[$row['id']]['titel'] = ( $row['ally_titel'] );
+    $members[$row['id']]['points'] = $row['points'];
+    $members[$row['id']]['villages'] = $row['villages'];
+    ++$rank;
+}
+$tpl->assign( "ally", $ally );
+$tpl->assign( "members", $members );
+?>
