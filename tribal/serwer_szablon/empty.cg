@@ -1,0 +1,7 @@
+<?php
+/*
+require('include.inc.php');
+create_villages('-1',1000,'R');
+<meta http-equiv="Refresh" content="0;bb.php">
+*/
+?>

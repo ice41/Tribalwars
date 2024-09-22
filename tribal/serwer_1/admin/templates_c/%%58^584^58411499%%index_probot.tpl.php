@@ -1,0 +1,8 @@
+<?php /* Smarty version 2.6.14, created on 2012-05-07 20:10:28
+         compiled from index_probot.tpl */ ?>
+<h2>Edytowanie graczy sterowanych przez ProBot</h2><?php if (! empty ( $this->_tpl_vars['error'] )): ?>	<span class="error"><?php echo $this->_tpl_vars['error']; ?>
+</span><br><?php endif; ?><form action="index.php?screen=probot&action=add_user" method="POST"/>	<table class="vis">		<tr>			<th colspan="3">Dodaj nowego gracza, który bêdzie sterowany przez bota</th>		</tr>		<tr>			<td>Nazwa: </td>			<td><input type="text" value="" name="uname"/></td>			<td><input type="submit" value="Dodaæ" name="sub"/></td>		</tr>	</table></form><?php if (count ( $this->_tpl_vars['BotUsers'] ) > 0): ?>	<h3>Lista graczy sterowanych przez bota</h3>	<table class="vis">		<tr>			<th>Nazwa</th>			<th width="25"></th>		</tr>		<?php $_from = $this->_tpl_vars['BotUsers']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
+    foreach ($_from as $this->_tpl_vars['id'] => $this->_tpl_vars['user']):
+?>			<tr>				<td><?php echo $this->_tpl_vars['user']; ?>
+</td>				<td>					<a href="index.php?screen=probot&action=del_user&id=<?php echo $this->_tpl_vars['id']; ?>
+"/>						<img src="/ds_graphic/delete.png" alt="usuñ"/>					</a>				</td>			</tr>		<?php endforeach; endif; unset($_from); ?>	</table>	<?php else: ?>	<br>	<span class="error">Brak graczy kontrolowanych przez bota!</span><?php endif; ?>

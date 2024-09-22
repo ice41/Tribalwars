@@ -1,0 +1,4 @@
+<p>Gracz <a href="game.php?village={$village.id}&amp;screen=info_player&amp;id={$report.from_user}">{$report.from_username}</a> usun¹³ Ciê z listy przyjació³. 
+Nie mo¿esz ju¿ zobaczyæ statusu online gracza <a href="game.php?village={$village.id}&amp;screen=info_player&amp;id={$report.from_user}">{$report.from_username}</a>.
+Podobnie gracz <a href="game.php?village={$village.id}&amp;screen=info_player&amp;id={$report.from_user}">{$report.from_username}</a> nie bêdzie ju¿ móg³ zobaczyæ, kiedy Ty jesteœ online.</p>
+<a href="game.php?village={$village.id}&amp;screen=friends">&raquo; Przyjaciele</a>

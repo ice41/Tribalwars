@@ -1,0 +1,14 @@
+<?php /* Smarty version 2.6.14, created on 2012-04-27 20:58:36
+         compiled from index_krzaki.tpl */ ?>
+<h3>Dodawanie krzaków na mapê</h3><?php if (! empty ( $this->_tpl_vars['error'] )): ?>	<font class="error"><?php echo $this->_tpl_vars['error']; ?>
+</font><br /><?php endif; ?><form action="index.php?screen=krzaki&akcja=dodaj_krzaki" method="POST">	<table class="vis" width="350">		<tr>			<th colspan="2">Dodaj krzaki</th>		</tr>		<tr>			<td>ile krzaków (maks. 5000):</td>			<td><input name="ile" type="text"/></td>		</tr>		<tr>			<td>typ krzaka:</td>			<td><input name="typ" type="text"/></td>		</tr>		<tr>			<td colspan="2">				<input name="sub" type="submit" value="dodaj krzaki"/>			</td>		<tr>	</table></form><table class="vis">	<tr>		<th>Numer krzaka</th>		<th>Wygl¹d na mapie</th>	</tr>	<?php $_from = $this->_tpl_vars['krzaki']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
+    foreach ($_from as $this->_tpl_vars['id'] => $this->_tpl_vars['krzak']):
+?>		<tr>			<td>				<?php echo $this->_tpl_vars['id']; ?>
+			</td>			<td>				<?php $_from = $this->_tpl_vars['krzak']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
+    foreach ($_from as $this->_tpl_vars['key'] => $this->_tpl_vars['info']):
+?>					<?php if ($this->_tpl_vars['key'] == 0): ?>						<?php $_from = $this->_tpl_vars['info']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
+    foreach ($_from as $this->_tpl_vars['wyglad_x']):
+?>							<table cellspacing="0" cellpadding="0">								<tr>									<?php $_from = $this->_tpl_vars['wyglad_x']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
+    foreach ($_from as $this->_tpl_vars['wyglad_y']):
+?> 										<td>											<img src="/ds_graphic/map/<?php echo $this->_tpl_vars['wyglad_y']; ?>
+"/>										</td>									<?php endforeach; endif; unset($_from); ?>								</tr>							</table>						<?php endforeach; endif; unset($_from); ?>					<?php endif; ?>				<?php endforeach; endif; unset($_from); ?>			</td>		</tr>	<?php endforeach; endif; unset($_from); ?></table>

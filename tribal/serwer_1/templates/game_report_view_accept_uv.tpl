@@ -1,0 +1,2 @@
+<p><a href="game.php?village={$village.id}&amp;screen=info_player&amp;id={$report.from_user}">{$report.from_username}</a> przyj¹ twoj¹ proœbê o zastêpstwo.</p>
+<a href="game.php?village={$village.id}&amp;screen=settings&amp;mode=vacation">Zastêpstwa</a>
