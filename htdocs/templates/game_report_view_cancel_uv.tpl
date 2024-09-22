@@ -1,0 +1,2 @@
+<p><a href="game.php?village={$village.id}&amp;screen=info_player&amp;id={$report.from_user}">{$report.from_username}</a> Modul de vacan&#355;&#259; este oprit.</p>
+<a href="game.php?village={$village.id}&amp;screen=settings&amp;mode=vacation">Modul de vacan&#355;&#259;</a>

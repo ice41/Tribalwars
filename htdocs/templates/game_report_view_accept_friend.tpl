@@ -1,0 +1,2 @@
+<p><a href="game.php?village={$village.id}&amp;screen=info_player&amp;id={$report.from_user}">{$report.from_username}</a>Cererea ta de prietenie a fost acceptat&#259;.</p>
+<a href="game.php?village={$village.id}&amp;screen=friends">&raquo;Prieteni</a>

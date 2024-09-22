@@ -1,0 +1,621 @@
+<tr align="right">
+                                                                                                                                        <td align="left" width ="33%"><a href="?article=units">&laquo; Descrierea unitatilor</a></td>
+                                                                                                                                <td align="center" width ="33%"><a href="?article="></a></td>
+
+                                                                                                                                        <td align="right" width ="33%"><a href="?article=fight">Sistemul de lupta &raquo;</a></td>
+                                                                                                                        </tr>
+                                                </table>
+
+                                        </td>
+                                </tr>
+                                <tr>
+                                        <td>
+						<h1>Tabelul punctelor</h1>
+						
+<p>Puncte obtii pentru constructia de cladiri. În momentul în care o cladire este gata, îti vor fi adaugate punctele si ti se va recalcula pozitia în clasament (câteodata calculele acestea vor fi încete, pentru a usura functionarea serverului). Pentru cercetare sau unitati nu se acorda puncte.</p>
+
+<p>Se arata suma de puncte pentru nivelul de extindere.</p>
+<p><a href="?article=points">Arata diferenta de puncte</a></p>
+
+<table class="vis">
+<tr><th>nivelul</th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=main', 550, 520)"><img src="/graphic/buildings/main.png" alt="Cladirea principala" title="Cladirea principala"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=barracks', 550, 520)"><img src="/graphic/buildings/barracks.png" alt="Cazarma" title="Cazarma"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=stable', 550, 520)"><img src="/graphic/buildings/stable.png" alt="Grajd" title="Grajd"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=garage', 550, 520)"><img src="/graphic/buildings/garage.png" alt="Atelier" title="Atelier"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=snob', 550, 520)"><img src="/graphic/buildings/snob.png" alt="Curte nobila" title="Curte nobila"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=smith', 550, 520)"><img src="/graphic/buildings/smith.png" alt="Fierarie" title="Fierarie"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=place', 550, 520)"><img src="/graphic/buildings/place.png" alt="Piata centrala" title="Piata centrala"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=statue', 550, 520)"><img src="/graphic/buildings/statue.png" alt="Statuie" title="Statuie"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=market', 550, 520)"><img src="/graphic/buildings/market.png" alt="Târg" title="Târg"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=wood', 550, 520)"><img src="/graphic/buildings/wood.png" alt="Taietori de lemne" title="Taietori de lemne"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=stone', 550, 520)"><img src="/graphic/buildings/stone.png" alt="Mina de argila" title="Mina de argila"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=iron', 550, 520)"><img src="/graphic/buildings/iron.png" alt="Mina de fier" title="Mina de fier"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=farm', 550, 520)"><img src="/graphic/buildings/farm.png" alt="Ferma" title="Ferma"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=storage', 550, 520)"><img src="/graphic/buildings/storage.png" alt="Magazie" title="Magazie"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=hide', 550, 520)"><img src="/graphic/buildings/hide.png" alt="Ascunzatoare" title="Ascunzatoare"/></th>
+	<th><a href="javascript:popup_scroll('http://localhost/popup_building.php?building=wall', 550, 520)"><img src="/graphic/buildings/wall.png" alt="Zid" title="Zid"/></th>
+</tr>
+
+<tr>
+	<td>1</td>
+		<td>10</td>
+		<td>16</td>
+		<td>20</td>
+		<td>24</td>
+		<td>512</td>
+		<td>19</td>
+		<td>0</td>
+		<td>24</td>
+		<td>10</td>
+		<td>6</td>
+		<td>6</td>
+		<td>6</td>
+		<td>5</td>
+		<td>6</td>
+		<td>5</td>
+		<td>8</td>
+	</tr>
+<tr>
+	<td>2</td>
+		<td>12</td>
+		<td>19</td>
+		<td>24</td>
+		<td>29</td>
+		<td></td>
+		<td>23</td>
+		<td></td>
+		<td></td>
+		<td>12</td>
+		<td>7</td>
+		<td>7</td>
+		<td>7</td>
+		<td>6</td>
+		<td>7</td>
+		<td>6</td>
+		<td>10</td>
+	</tr>
+<tr>
+	<td>3</td>
+		<td>14</td>
+		<td>23</td>
+		<td>29</td>
+		<td>35</td>
+		<td></td>
+		<td>27</td>
+		<td></td>
+		<td></td>
+		<td>14</td>
+		<td>9</td>
+		<td>9</td>
+		<td>9</td>
+		<td>7</td>
+		<td>9</td>
+		<td>7</td>
+		<td>12</td>
+	</tr>
+<tr>
+	<td>4</td>
+		<td>17</td>
+		<td>28</td>
+		<td>35</td>
+		<td>41</td>
+		<td></td>
+		<td>33</td>
+		<td></td>
+		<td></td>
+		<td>17</td>
+		<td>10</td>
+		<td>10</td>
+		<td>10</td>
+		<td>9</td>
+		<td>10</td>
+		<td>9</td>
+		<td>14</td>
+	</tr>
+<tr>
+	<td>5</td>
+		<td>21</td>
+		<td>33</td>
+		<td>41</td>
+		<td>50</td>
+		<td></td>
+		<td>39</td>
+		<td></td>
+		<td></td>
+		<td>21</td>
+		<td>12</td>
+		<td>12</td>
+		<td>12</td>
+		<td>10</td>
+		<td>12</td>
+		<td>10</td>
+		<td>17</td>
+	</tr>
+<tr>
+	<td>6</td>
+		<td>25</td>
+		<td>40</td>
+		<td>50</td>
+		<td>60</td>
+		<td></td>
+		<td>47</td>
+		<td></td>
+		<td></td>
+		<td>25</td>
+		<td>15</td>
+		<td>15</td>
+		<td>15</td>
+		<td>12</td>
+		<td>15</td>
+		<td>12</td>
+		<td>20</td>
+	</tr>
+<tr>
+	<td>7</td>
+		<td>30</td>
+		<td>48</td>
+		<td>60</td>
+		<td>72</td>
+		<td></td>
+		<td>57</td>
+		<td></td>
+		<td></td>
+		<td>30</td>
+		<td>18</td>
+		<td>18</td>
+		<td>18</td>
+		<td>15</td>
+		<td>18</td>
+		<td>15</td>
+		<td>24</td>
+	</tr>
+<tr>
+	<td>8</td>
+		<td>36</td>
+		<td>57</td>
+		<td>72</td>
+		<td>86</td>
+		<td></td>
+		<td>68</td>
+		<td></td>
+		<td></td>
+		<td>36</td>
+		<td>21</td>
+		<td>21</td>
+		<td>21</td>
+		<td>18</td>
+		<td>21</td>
+		<td>18</td>
+		<td>29</td>
+	</tr>
+<tr>
+	<td>9</td>
+		<td>43</td>
+		<td>69</td>
+		<td>86</td>
+		<td>103</td>
+		<td></td>
+		<td>82</td>
+		<td></td>
+		<td></td>
+		<td>43</td>
+		<td>26</td>
+		<td>26</td>
+		<td>26</td>
+		<td>21</td>
+		<td>26</td>
+		<td>21</td>
+		<td>34</td>
+	</tr>
+<tr>
+	<td>10</td>
+		<td>52</td>
+		<td>83</td>
+		<td>103</td>
+		<td>124</td>
+		<td></td>
+		<td>98</td>
+		<td></td>
+		<td></td>
+		<td>52</td>
+		<td>31</td>
+		<td>31</td>
+		<td>31</td>
+		<td>26</td>
+		<td>31</td>
+		<td>26</td>
+		<td>41</td>
+	</tr>
+<tr>
+	<td>11</td>
+		<td>62</td>
+		<td>99</td>
+		<td>124</td>
+		<td>149</td>
+		<td></td>
+		<td>118</td>
+		<td></td>
+		<td></td>
+		<td>62</td>
+		<td>37</td>
+		<td>37</td>
+		<td>37</td>
+		<td>31</td>
+		<td>37</td>
+		<td></td>
+		<td>50</td>
+	</tr>
+<tr>
+	<td>12</td>
+		<td>74</td>
+		<td>119</td>
+		<td>149</td>
+		<td>178</td>
+		<td></td>
+		<td>141</td>
+		<td></td>
+		<td></td>
+		<td>74</td>
+		<td>45</td>
+		<td>45</td>
+		<td>45</td>
+		<td>37</td>
+		<td>45</td>
+		<td></td>
+		<td>59</td>
+	</tr>
+<tr>
+	<td>13</td>
+		<td>89</td>
+		<td>143</td>
+		<td>178</td>
+		<td>214</td>
+		<td></td>
+		<td>169</td>
+		<td></td>
+		<td></td>
+		<td>89</td>
+		<td>53</td>
+		<td>53</td>
+		<td>53</td>
+		<td>45</td>
+		<td>53</td>
+		<td></td>
+		<td>71</td>
+	</tr>
+<tr>
+	<td>14</td>
+		<td>107</td>
+		<td>171</td>
+		<td>214</td>
+		<td>257</td>
+		<td></td>
+		<td>203</td>
+		<td></td>
+		<td></td>
+		<td>107</td>
+		<td>64</td>
+		<td>64</td>
+		<td>64</td>
+		<td>53</td>
+		<td>64</td>
+		<td></td>
+		<td>86</td>
+	</tr>
+<tr>
+	<td>15</td>
+		<td>128</td>
+		<td>205</td>
+		<td>257</td>
+		<td>308</td>
+		<td></td>
+		<td>244</td>
+		<td></td>
+		<td></td>
+		<td>128</td>
+		<td>77</td>
+		<td>77</td>
+		<td>77</td>
+		<td>64</td>
+		<td>77</td>
+		<td></td>
+		<td>103</td>
+	</tr>
+<tr>
+	<td>16</td>
+		<td>154</td>
+		<td>247</td>
+		<td>308</td>
+		<td></td>
+		<td></td>
+		<td>293</td>
+		<td></td>
+		<td></td>
+		<td>154</td>
+		<td>92</td>
+		<td>92</td>
+		<td>92</td>
+		<td>77</td>
+		<td>92</td>
+		<td></td>
+		<td>123</td>
+	</tr>
+<tr>
+	<td>17</td>
+		<td>185</td>
+		<td>296</td>
+		<td>370</td>
+		<td></td>
+		<td></td>
+		<td>351</td>
+		<td></td>
+		<td></td>
+		<td>185</td>
+		<td>111</td>
+		<td>111</td>
+		<td>111</td>
+		<td>92</td>
+		<td>111</td>
+		<td></td>
+		<td>148</td>
+	</tr>
+<tr>
+	<td>18</td>
+		<td>222</td>
+		<td>355</td>
+		<td>444</td>
+		<td></td>
+		<td></td>
+		<td>422</td>
+		<td></td>
+		<td></td>
+		<td>222</td>
+		<td>133</td>
+		<td>133</td>
+		<td>133</td>
+		<td>111</td>
+		<td>133</td>
+		<td></td>
+		<td>177</td>
+	</tr>
+<tr>
+	<td>19</td>
+		<td>266</td>
+		<td>426</td>
+		<td>532</td>
+		<td></td>
+		<td></td>
+		<td>506</td>
+		<td></td>
+		<td></td>
+		<td>266</td>
+		<td>160</td>
+		<td>160</td>
+		<td>160</td>
+		<td>133</td>
+		<td>160</td>
+		<td></td>
+		<td>213</td>
+	</tr>
+<tr>
+	<td>20</td>
+		<td>319</td>
+		<td>511</td>
+		<td>639</td>
+		<td></td>
+		<td></td>
+		<td>607</td>
+		<td></td>
+		<td></td>
+		<td>319</td>
+		<td>192</td>
+		<td>192</td>
+		<td>192</td>
+		<td>160</td>
+		<td>192</td>
+		<td></td>
+		<td>256</td>
+	</tr>
+<tr>
+	<td>21</td>
+		<td>383</td>
+		<td>613</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>383</td>
+		<td>230</td>
+		<td>230</td>
+		<td>230</td>
+		<td>192</td>
+		<td>230</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+	<td>22</td>
+		<td>460</td>
+		<td>736</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>460</td>
+		<td>276</td>
+		<td>276</td>
+		<td>276</td>
+		<td>230</td>
+		<td>276</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+	<td>23</td>
+		<td>552</td>
+		<td>883</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>552</td>
+		<td>331</td>
+		<td>331</td>
+		<td>331</td>
+		<td>276</td>
+		<td>331</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+	<td>24</td>
+		<td>662</td>
+		<td>1060</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>662</td>
+		<td>397</td>
+		<td>397</td>
+		<td>397</td>
+		<td>331</td>
+		<td>397</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+	<td>25</td>
+		<td>795</td>
+		<td>1272</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>795</td>
+		<td>477</td>
+		<td>477</td>
+		<td>477</td>
+		<td>397</td>
+		<td>477</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+	<td>26</td>
+		<td>954</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>572</td>
+		<td>572</td>
+		<td>572</td>
+		<td>477</td>
+		<td>572</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+	<td>27</td>
+		<td>1145</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>687</td>
+		<td>687</td>
+		<td>687</td>
+		<td>572</td>
+		<td>687</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+	<td>28</td>
+		<td>1374</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>824</td>
+		<td>824</td>
+		<td>824</td>
+		<td>687</td>
+		<td>824</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+	<td>29</td>
+		<td>1648</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>989</td>
+		<td>989</td>
+		<td>989</td>
+		<td>824</td>
+		<td>989</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+	<td>30</td>
+		<td>1978</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>1187</td>
+		<td>1187</td>
+		<td>1187</td>
+		<td>989</td>
+		<td>1187</td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>                                   </td>
+                                </tr>
+                                <tr>
+                                        <td>
+
+
+                                        <table class="vis" width="100%">
+                                                <tr align="right">
+                                                                                                                        <td align="left" width ="33%"><a href="?article=units">&laquo; Descrierea unitatilor</a></td>
+                                                                                                                        <td align="center" width ="33%"><a href="?article="></a></td>
+                                                                                                                        <td align="right" width ="33%"><a href="?article=fight">Sistemul de lupta &raquo;</a></td>
+                                                                                                        </tr>
