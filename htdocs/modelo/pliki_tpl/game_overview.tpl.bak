@@ -1,0 +1,487 @@
+{php}
+$time = date("H");
+$visual = "visual";
+if($time>=22 || $time<8)
+{
+$visual = "visual_night";
+}
+
+$sql1 = "SELECT * FROM events WHERE villageid ='". $_GET["village"] . "'";
+$res1 = mysql_query($sql1);
+$main = "png";
+$smith = "png";
+while($row1 = mysql_fetch_assoc($res1))
+{
+	if($row1[event_type] == "build")
+	{
+		$main = "gif";
+	}
+	if($row1[event_type] == "research")
+	{
+		$smith = "gif";
+	}
+
+}
+
+$sql2 = "SELECT * FROM recruit WHERE villageid ='". $_GET["village"] . "'";
+$res2 = mysql_query($sql2);
+$barracks = "png";
+$garage = "png";
+$stable = "png";
+$snob = "png";
+$statue = "png";
+while($row2 = mysql_fetch_assoc($res2))
+{
+	if($row2[building] == "barracks")
+	{
+		$barracks = "gif";
+	}
+	if($row2[building] == "garage")
+	{
+		$garage = "gif";
+	}
+	if($row2[building] == "stable")
+	{
+		$stable = "gif";
+	}
+	if($row2[building] == "snob")
+	{
+		$snob = "gif";
+	}
+}
+
+
+if($this->_tpl_vars['village']['r_wood'] == $this->_tpl_vars['max_storage']) $wood = "png";
+else $wood = "gif";
+if($this->_tpl_vars['village']['r_stone'] == $this->_tpl_vars['max_storage']) $stone = "png";
+else $stone = "gif";
+if($this->_tpl_vars['village']['r_iron'] == $this->_tpl_vars['max_storage']) $iron = "png";
+else $iron = "gif";
+if($this->_tpl_vars['village']['r_bh'] == $this->_tpl_vars['max_bh']) $farm = "png";
+else $farm = "gif";
+
+{/php}
+<br>
+<table>
+<tr>
+  <td width="600" valign="top" valign="top">
+   <table class="vis" width="100%">
+        <tr>
+                <th colspan="2">
+         Edifícios
+         </th>
+        </tr>
+        {if $style == 'new'}
+         <tr>
+          <td width="60%">
+           <a href="game.php?village={$village.id}&screen=overview&akcja=o_labels"><span>{if $labels}Ukryj poziomy budynków{else}Poka¿ poziomy budynków{/if}</span></a>
+          </td>
+          <td>
+          <a href="game.php?village={$village.id}&screen=overview&akcja=o_style"><span style="text-align:right;">Do klasycznego przegl¹du wioski</span></a>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <table cellpadding="5">
+                <tr>
+                 <td>
+                  <div style="position: relative; width: 600px;height: 418px; background-image: url(/ds_graphic/{php}echo $visual{/php}/back_none.jpg);"/>
+                   <img class="empty" src="/ds_graphic/map/empty.png" alt="" usemap="#mapa" />
+                   <map name="mapa" id="mapa">
+                        {foreach from=$cl_builds->get_array('dbname') item=dbname key=id}
+                         {if $village.$dbname > 0}
+                          {if $cl_builds->get_maxstage($dbname) == 1}
+                           <area shape="poly" coords="{$builds_graphic_coords.$dbname}" href="game.php?village={$village.id}&screen={$dbname}" alt="{$cl_builds->get_name($dbname)}" title="{$cl_builds->get_name($dbname)}"/>
+                            {if $dbname == 'place'}
+				   <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.{php}echo $barracks{/php}" alt=""/>
+                            {/if}
+		            {if $dbname == 'snob'}
+				   <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.{php}echo $snob{/php}" alt=""/>
+                            {/if}
+		            {if $dbname == 'statue'}
+				   <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.png" alt=""/>
+                            {/if}
+		           {if $labels}
+                                <label class="stagetip label_{$dbname}"><a href="game.php?village={$village.id}&screen={$dbname}">{$village.$dbname}</a></label>
+                           {/if}
+                          {else}
+                           {if $dbname == 'snob' || $dbname == 'hide'}
+                                <area shape="poly" coords="{$builds_graphic_coords.$dbname}" href="game.php?village={$village.id}&screen={$dbname}" alt="{$cl_builds->get_name($dbname)}" title="{$cl_builds->get_name($dbname)}"/> 
+					   <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.png" alt=""/>
+					  {if $labels}
+                                 <label class="stagetip label_{$dbname}"><a href="game.php?village={$village.id}&screen={$dbname}">{$village.$dbname}</a></label>
+                                {/if}
+                           {else}
+                                {php}
+                                 $this->_tpl_vars['aktu_build_prc'] = $this->_tpl_vars['village'][$this->_tpl_vars['dbname']] / $this->_tpl_vars['cl_builds']->get_maxstage($this->_tpl_vars['dbname']);
+                                {/php}
+                                {if $aktu_build_prc > 0.5}
+                                 <area shape="poly" coords="{$builds_graphic_coords.$dbname}" href="game.php?village={$village.id}&screen={$dbname}" alt="{$cl_builds->get_name($dbname)}" title="{$cl_builds->get_name($dbname)}"/>
+                                 {if $dbname == 'main'}
+                                  <img class="align_mainflag" src="/ds_graphic/{php}echo $visual{/php}/mainflag3.gif" alt=""/>
+                                 {/if}
+				 {if $dbname == 'main'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}3.{php}echo $main{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'smith'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}3.{php}echo $smith{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'garage'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}3.{php}echo $garage{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'stable'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}3.{php}echo $stable{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'wood'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}3.{php}echo $wood{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'stone'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}3.{php}echo $stone{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'iron'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}3.{php}echo $iron{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'farm'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}3.{php}echo $farm{/php}" alt=""/>
+				 {/if}
+			         {if $dbname == 'barracks' || $dbname == 'wall' || $dbname == 'market'}
+				  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}3.png" alt=""/>
+			         {/if}
+				{if $labels}
+                                  <label class="stagetip label_{$dbname}"><a href="game.php?village={$village.id}&screen={$dbname}">{$village.$dbname}</a></label>
+                                {/if}
+                                {else}
+                                 {if $aktu_build_prc > 0.2}
+                                  <area shape="poly" coords="{$builds_graphic_coords.$dbname}" href="game.php?village={$village.id}&screen={$dbname}" alt="{$cl_builds->get_name($dbname)}" title="{$cl_builds->get_name($dbname)}"/>
+                                  {if $dbname == 'main'}
+                                   <img class="align_mainflag" src="/ds_graphic/{php}echo $visual{/php}/mainflag2.gif" alt=""/>
+                                  {/if}
+				 {if $dbname == 'smith'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}2.{php}echo $smith{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'garage'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}2.{php}echo $garage{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'stable'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}2.{php}echo $stable{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'wood'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}2.{php}echo $wood{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'stone'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}2.{php}echo $stone{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'iron'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}2.{php}echo $iron{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'farm'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}2.{php}echo $farm{/php}" alt=""/>
+				 {/if}
+			         {if $dbname == 'barracks' || $dbname == 'wall' || $dbname == 'market'}
+				  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}2.png" alt=""/>
+			         {/if}
+				  {if $labels}
+                                   <label class="stagetip label_{$dbname}"><a href="game.php?village={$village.id}&screen={$dbname}">{$village.$dbname}</a></label>
+                                  {/if}
+                                 {else}
+                                  <area shape="poly" coords="{$builds_graphic_coords.$dbname}" href="game.php?village={$village.id}&screen={$dbname}" alt="{$cl_builds->get_name($dbname)}" title="{$cl_builds->get_name($dbname)}"/>
+                                  {if $dbname == 'main'}
+                                   <img class="align_mainflag" src="/ds_graphic/{php}echo $visual{/php}/mainflag1.gif" alt=""/>
+                                  {/if}
+				 {if $dbname == 'smith'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.{php}echo $smith{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'garage'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.{php}echo $garage{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'stable'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.{php}echo $stable{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'wood'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.{php}echo $wood{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'stone'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.{php}echo $stone{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'iron'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.{php}echo $iron{/php}" alt=""/>
+				 {/if}
+				 {if $dbname == 'farm'}
+                                  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.{php}echo $farm{/php}" alt=""/>
+				 {/if}
+			         {if $dbname == 'barracks' || $dbname == 'wall' || $dbname == 'market'}
+				  <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}1.png" alt=""/>
+			         {/if}
+				  {if $labels}
+                                   <label class="stagetip label_{$dbname}"><a href="game.php?village={$village.id}&screen={$dbname}">{$village.$dbname}</a></label>
+                                  {/if}
+                                 {/if}
+                                {/if}
+                           {/if}
+                          {/if}
+                         {else}
+                          {php}
+                           if (get_counts_on_build($this->_tpl_vars['village']['id'],$this->_tpl_vars['dbname']) > 0):
+                          {/php}
+                           <img class="align_{$dbname}" src="/ds_graphic/{php}echo $visual{/php}/{$dbname}0.gif" alt=""/>
+                          {php}
+                           endif;
+                          {/php}
+                         {/if}
+                        {/foreach}
+                
+                        
+			{php} $this->_tpl_vars['anim'] = rand(0, 3); {/php}
+			{if $anim == 1}
+                         <img class="align_conversation" src="/ds_graphic/{php}echo $visual{/php}/conversation.gif" alt=""/>
+                        {/if}
+			{if $anim == 2}
+                         <img class="align_juggler" src="/ds_graphic/{php}echo $visual{/php}/juggler.gif" alt=""/>
+                        {/if}
+                        {if $anim == 3}
+			 <img class="align_guard" src="/ds_graphic/{php}echo $visual{/php}/guard.gif" alt=""/>
+                        {/if}
+			{if $village.r_bh < $max_bh}
+			 <img class="align_farmer" src="/ds_graphic/{php}echo $visual{/php}/farmer.gif" alt=""/>
+                        {/if}
+                   </map>
+                  </div>
+                 </td>
+                </tr>
+           </table>
+          </td> 
+         </tr>
+        
+        {elseif $style == 'classic'}
+         <tr>
+          <td>
+           <a href="game.php?village={$village.id}&screen=overview&akcja=o_style">
+                <span style="text-align:right;">
+                 Do graficznego przegl¹du wioski
+                </span>
+           </a>
+          </td>
+         </tr>
+         {foreach from=$built_builds item=dbname key=id}
+          <tr>
+           <td>
+                <a href="game.php?village={$village.id}&screen={$dbname}"><img src="/ds_graphic/buildings/{$dbname}.png"> {$cl_builds->get_name($dbname)}</a>
+                 (Nível {$village.$dbname})
+                </td>
+          </tr>
+         {/foreach}
+        {/if}
+  
+        <tr>
+         {* Andere Angriffe auf das aktuelle Dorf *}
+         {if count($other_movements)>0}
+          <td colspan="2">
+           <table class="vis" width="100%">
+                <tr>
+                 <th>Inne rozkazy ({php}echo count($this->_tpl_vars['other_movements']);{/php})</th>
+                 <th>Na miejscu</th>
+                 <th>Na miejscu za</th>
+                </tr>
+                {foreach from=$other_movements item=array}
+                 <tr>
+                  <td>
+                   <a href="game.php?village={$village.id}&amp;screen=info_command&amp;id={$array.id}&amp;type=other">
+                        <img src="/ds_graphic/command/{$array.type}.png"> {$array.message}
+                   </a>
+                  </td>
+                  <td>
+                   {$array.end_time}
+                  </td>
+                  {if $array.arrival_in<0}
+                   <td>
+                        {$array.arrival_in|format_time}
+                   </td>
+                  {else}
+                   <td>
+                        <span class="timer">
+                         {$array.arrival_in|format_time}
+                        </span>
+                   </td>
+                  {/if}
+                 </tr>
+                {/foreach}
+           </table>
+          </td>
+         {/if}
+        </tr>
+        <tr>
+         {* Eigene losgeschickte Angriffe *}
+         {if count($my_movements)>0}
+          <td colspan="2">
+          <br>
+           <table class="vis" width="100%">
+                <tr>
+                 <th>W³asne rozkazy ({php}echo count($this->_tpl_vars['my_movements']);{/php})</th>
+                 <th>Na miejscu</th>
+                 <th>Na miejscu za</th>
+                </tr>
+                {foreach from=$my_movements item=array}
+                 <tr>
+                  <td>
+                   <a href="game.php?village={$village.id}&amp;screen=info_command&amp;id={$array.id}&amp;type=own">
+                        <img src="/ds_graphic/command/{$array.type}.png"> {$array.message}
+                   </a>
+                  </td>
+                  <td>
+                   {$array.end_time}
+                  </td>
+                  {if $array.arrival_in<0}
+                   <td>
+                        {$array.arrival_in|format_time}
+                   </td>
+                  {else}
+                   <td>
+                        <span class="timer">
+                         {$array.arrival_in|format_time}
+                        </span>
+                   </td>
+                  {/if}
+                  {if $array.can_cancel}
+                   <td>
+                        <a href="game.php?village={$village.id}&amp;screen=place&amp;action=cancel&amp;id={$array.id}&amp;h={$hkey}">
+                         Przerwij
+                        </a>
+                   </td>
+                  {/if}
+                 </tr>
+                {/foreach}
+           </table>
+          </td>
+         {/if}
+        </tr>
+   </table>
+  </td>
+
+  <td valign="top" {if $style == 'new'}width="100%{/if}{if $style == 'classic'}width="40%{/if}">
+   {if $noob}
+        <table class="vis" width="100%">
+         <tr>
+          <th>
+           Ochrona pocz¹tkowa
+          </th>
+         </tr>
+         <tr>
+          <td>
+           Koñczy siê {$noob_end}
+          </td>
+         </tr>
+        </table>
+        <br />
+   {/if}
+   <table class="vis" width="100%">
+        <tr>
+         <th colspan="2">
+          Produkcja
+         </th>
+        </tr>
+        <tr>
+         <td width="80">
+          <img src="/ds_graphic/holz.png" title="Madeira" alt="" />
+          Madeira
+         </td>
+         <td>
+          <strong>
+           {$wood_per_hour|format_number}
+          </strong>
+           por hora
+         </td>
+        </tr>
+        <tr>
+         <td width="80">
+          <img src="/ds_graphic/lehm.png" title="Ceg³y" alt="" />
+           Argila
+         </td>
+         <td>
+          <strong>
+           {$stone_per_hour|format_number}
+          </strong>
+           por hora
+         </td>
+        </tr>
+        <tr>
+         <td width="80">
+          <img src="/ds_graphic/eisen.png" title="¯elazo" alt="" />
+           ¯elazo
+         </td>
+         <td>
+          <strong>
+           {$iron_per_hour|format_number}
+          </strong>
+           por hora
+         </td>
+        </tr>
+   </table>
+   <br />
+   <table class="vis" width="100%">
+        <tr>
+         <th>
+          Jednostki
+         </th>
+        </tr>
+                                {foreach from=$in_village_units item=num key=dbname}
+                                 <tr>
+          <td>
+           <img src="/ds_graphic/unit/{$dbname}.png">
+           <b>
+                {$num}
+           </b>
+           {if $dbname === 'unit_paladin'}
+                {$pala_name}
+           {else}
+                {$cl_units->get_name($dbname)}
+           {/if}
+          </td>
+         </tr>
+                                {/foreach}
+        <tr>
+         <td><a href="game.php?village={$village.id}&amp;screen=train&mode=train">» rekrutowaæ</a></td>
+        </tr>
+   </table>
+   <br />
+   <table class="vis" width="100%">
+        <tr>
+         <th>
+          Przynale¿noœæ do grupy:
+         </th>
+        </tr>
+        {if $village.group === 'all'}
+         <tr>
+          <td>
+           <a href="game.php?village={$village.id}&amp;screen=overview_villages&amp;mode=grocusto">» opracuj</a>
+          </td>
+         </tr>
+        {else}
+         <tr>
+          <td>
+           {$village.group}
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="game.php?village={$village.id}&amp;screen=overview_villages&amp;mode=grocusto">» opracuj</a>
+          </td>
+         </tr>
+        {/if}
+   </table>
+   <br />
+   {if $village.agreement!="100"}
+        <table class="vis" width="100%">
+         <tr>
+          <th>
+           Moral:
+          </th>
+          <th style="color: {$color}">
+           {$village.agreement}
+          </th>
+         </tr>
+        </table>
+        <br />
+   {/if}
+  </td>
+</tr>
+</table>

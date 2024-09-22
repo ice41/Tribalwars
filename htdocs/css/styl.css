@@ -1,0 +1,4 @@
+#content_value table { border-spacing: 2px; border-collapse: separate; empty-cells: show !important; } #mass_train_table { min-width: 950px; width: 100%; }
+ #content_value td,#content_value th { padding: 2px 3px; } 
+ #inner-border { padding:2px 0; border: 1px solid #f9e1a8; }
+

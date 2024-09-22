@@ -1,0 +1,1 @@
+O exército está visitando-o <a href="game.php?village={$village.id}&amp;screen=info_village&amp;id={$report.to_village}">{$report.to_villagename} ({$report.to_x}|{$report.to_y})</a>

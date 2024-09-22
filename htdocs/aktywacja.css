@@ -1,0 +1,121 @@
+/**** game/stamm_new_menu.css ****/
+/*05a56e1f09a086a27db10458edc49144*/
+.tutorial {
+	position:absolute;
+	z-index:105;
+}
+
+#tutorial_tooltip {
+	position:fixed;
+	z-index:101;
+	width:306px;
+}
+
+#tutorial_tooltip_village_text {
+	background:url('ds_graphic/tutorial_65/village_goal.png?7c421') no-repeat;
+	height:114px;
+	padding:12px 105px 10px 14px;
+	text-align:justify;
+}
+
+#tutorial_tooltip_top {
+	background:url('ds_graphic/tutorial_65/proceed_window_01.png?53528') no-repeat;
+	height:60px;
+	min-height:60px;
+}
+
+#tutorial_tooltip_body {
+	margin:0;
+	min-height: 0px;
+	background-position: 0px 42px;
+	background-repeat: no-repeat;
+	background-image:url('ds_graphic/tutorial_65/proceed_window_04.png?97b02');
+}
+
+#tutorial_tooltip_bottom {
+	background:url('ds_graphic/tutorial_65/proceed_window_03.png?4b151') no-repeat;
+	height:21px;
+}
+
+#tutorial_tooltip_text {
+	margin: -42px 35px 0px 12px;
+	text-align:justify;
+}
+
+#tutorial_box {
+	z-index:5;
+}
+
+#tut_box_title {
+	font-weight: bold;
+	position: absolute;
+}
+
+#tut_box_text {
+	position: absolute;
+	text-align:justify;
+}
+
+#tut_box_button {
+	position:absolute;
+	font-size:18px;
+	text-align:center;
+	vertical-align:middle;
+}
+
+#tutorial_head {
+	position:fixed;
+	width:160px;
+}
+
+.tutorial_arrow {
+	display:none;
+}
+
+.server_info {
+	display:block;
+	float:right;
+	width:100%;
+}
+
+
+
+
+
+#tut_box {
+
+	width:468px;
+	height:250px;
+        background:url(ds_graphic/tutorial_65/start.png) no-repeat;	
+
+}
+
+#tut_box_title {
+
+	left: 680px;
+	top: 260px;
+
+}
+
+#tut_box_text {
+
+	left: 580px;
+	top: 280px;
+	width: 280px;
+
+}
+
+#tut_box_button {
+
+	left: 594px;
+	top: 415px;
+	width: 239px;
+	height: 28px;
+	line-height: 28px;
+	text-size: 58px;
+                 color: white;
+                 text-alian: center;
+
+}
+
+

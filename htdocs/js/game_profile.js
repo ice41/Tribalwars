@@ -1,0 +1,1 @@
+﻿$(function(){UI.ToolTip('#kill_info')})
