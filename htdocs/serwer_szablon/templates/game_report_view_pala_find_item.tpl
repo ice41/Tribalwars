@@ -1,0 +1,1 @@
+Twój rycerz o imieniu {$pala_name} , kr¹¿¹c w oko³o pobliskich wiosek odnalaz³ przedmiot o nazwie {$item_name}<br><img src="{$image_item}"/><br><a href="game.php?village={$village.id}&screen=statue&mode=inventory"/>&raquo; Do zbrojowni</a>

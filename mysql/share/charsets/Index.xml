@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<charsets max-id="98">
+
+<copyright>
+ Copyright (C) 2003 MySQL AB
+
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program; if not, write to the Free Software
+  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+</copyright>
+
+<description>
+This file lists all of the available character sets.
+To make maintaining easier please:
+ - keep records sorted by collation number.
+ - change charsets.max-id when adding a new collation.
+</description>
+
+<charset name="latin2">
+  <family>Central European</family>
+  <description>ISO 8859-2 Central European</description>
+  <alias>csisolatin2</alias>
+  <alias>iso-8859-2</alias>
+  <alias>iso-ir-101</alias>
+  <alias>iso_8859-2</alias>
+  <alias>iso_8859-2:1987</alias>
+  <alias>l2</alias>
+  <collation name="latin2_czech_cs" 	id="2"	order="Czech" flag="compiled"/>
+  <collation name="latin2_general_ci"	id="9"	flag="primary">
+    <order>Hungarian</order>
+    <order>Polish</order>
+    <order>Romanian</order>
+    <order>Croatian</order>
+    <order>Slovak</order>
+    <order>Slovenian</order>
+    <order>Sorbian</order>
+  </collation>
+  <collation name="latin2_hungarian_ci"		id="21"	order="Hungarian"/>
+  <collation name="latin2_croatian_ci"		id="27"	order="Croatian"/>
+  <collation name="latin2_bin"	id="77"	order="Binary"	flag="binary"/>
+</charset>
+
+
+<charset name="cp850">
+  <family>Western</family>
+  <description>DOS West European</description>
+  <alias>850</alias>
+  <alias>cspc850multilingual</alias>
+  <alias>ibm850</alias>
+  <collation name="cp850_general_ci"	id="4"	flag="primary">
+    <order>Dutch</order>
+    <order>English</order>
+    <order>French</order>
+    <order>German Duden</order>
+    <order>Italian</order>
+    <order>Latin</order>
+    <order>Portuguese</order>
+    <order>Spanish</order>
+  </collation>
+  <collation name="cp850_bin"	id="80"	order="Binary"	flag="binary"/>
+</charset>
+
+<charset name="latin1">
+  <family>Western</family>
+  <description>cp1252 West European</description>
+  <alias>csisolatin1</alias>
+  <alias>iso-8859-1</alias>
+  <alias>iso-ir-100</alias>
+  <alias>iso_8859-1</alias>
+  <alias>iso_8859-1:1987</alias>
+  <alias>l1</alias>
+  <alias>latin1</alias>
+  <collation name="latin1_german1_ci"	id="5"	order="German Duden"/>
+  <collation name="latin1_swedish_ci"	id="8"	order="Finnish, Swedish">
+    <flag>primary</flag>
+    <flag>compiled</flag>
+  </collation>
+  <collation name="latin1_danish_ci"	id="15"	order="Danish"/>
+  <collation name="latin1_german2_ci"	id="31"	order="German Phonebook"	flag="compiled"/>
+  <collation name="latin1_spanish_ci"	id="94"	order="Spanish"/>
+  <collation name="latin1_bin"		id="47"	order="Binary">
+    <flag>binary</flag>
+    <flag>compiled</flag>
+  </collation>
+  <collation name="latin1_general_ci"	id="48">
+    <order>Dutch</order>
+    <order>English</order>
+    <order>French</order>
+    <order>German Duden</order>
+    <order>Italian</order>
+    <order>Latin</order>
+    <order>Portuguese</order>
+    <order>Spanish</order>
+  </collation>
+  <collation name="latin1_general_cs"	id="49">
+    <order>Dutch</order>
+    <order>English</order>
+    <order>French</order>
+    <order>German Duden</order>
+    <order>Italian</order>
+    <order>Latin</order>
+    <order>Portuguese</order>
+    <order>Spanish</order>
+  </collation>
+</charset>
+
+
+<charset name="latin5">
+  <family>South Asian</family>
+  <description>ISO 8859-9 Turkish</description>
+  <alias>csisolatin5</alias>
+  <alias>iso-8859-9</alias>
+  <alias>iso-ir-148</alias>
+  <alias>l5</alias>
+  <alias>latin5</alias>
+  <alias>turkish</alias>
+  <collation name="latin5_turkish_ci"	id="30"	order="Turkish"	flag="primary"/>
+  <collation name="latin5_bin"		id="78"	order="Binary"	flag="binary"/>
+</charset>
+
+<charset name="utf8">
+  <family>Unicode</family>
+  <description>UTF-8 Unicode</description>
+  <alias>utf-8</alias>
+  <collation name="utf8_general_ci"	id="33">
+   <flag>primary</flag>
+   <flag>compiled</flag>
+  </collation>
+  <collation name="utf8_bin"		id="83">
+    <flag>binary</flag>
+    <flag>compiled</flag>
+  </collation>
+</charset>
+
+</charsets>
+

@@ -1,0 +1,1 @@
+{$awards->get_awards_ranking($user.award_rang,$user.id)}

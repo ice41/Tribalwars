@@ -1,0 +1,1335 @@
+[Mon Jan 30 22:44:55 2012] [notice] Apache/2.2.3 (Win32) DAV/2 mod_ssl/2.2.3 OpenSSL/0.9.8d mod_autoindex_color PHP/4.4.2 configured -- resuming normal operations
+[Mon Jan 30 22:44:55 2012] [notice] Server built: Sep 30 2006 21:24:06
+[Mon Jan 30 22:44:55 2012] [notice] Parent: Created child process 32284
+[Mon Jan 30 22:44:58 2012] [notice] Child 32284: Child process is running
+[Mon Jan 30 22:44:58 2012] [notice] Child 32284: Acquired the start mutex.
+[Mon Jan 30 22:44:58 2012] [notice] Child 32284: Starting 250 worker threads.
+[Mon Jan 30 22:44:59 2012] [notice] Child 32284: Starting thread to listen on port 443.
+[Mon Jan 30 22:44:59 2012] [notice] Child 32284: Starting thread to listen on port 80.
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+[Mon Jan 30 22:46:49 2012] [error] [client 127.0.0.1] File does not exist: D:/plemiona 6.0/htdocs/graphic/login_close.png, referer: http://localhost/index.php
+[Fri Dec 23 19:39:24 2016] [notice] Apache/2.2.3 (Win32) DAV/2 mod_ssl/2.2.3 OpenSSL/0.9.8d mod_autoindex_color PHP/4.4.2 configured -- resuming normal operations
+[Fri Dec 23 19:39:24 2016] [notice] Server built: Sep 30 2006 21:24:06
+[Fri Dec 23 19:39:24 2016] [notice] Parent: Created child process 92524
+Apache server shutdown initiated...
+hild 92524: Child process is running
+[Fri Dec 23 19:39:25 2016] [notice] Child 92524: Acquired the start mutex.
+[Fri Dec 23 19:39:25 2016] [notice] Child 92524: Starting 250 worker threads.
+[Fri Dec 23 19:39:25 2016] [notice] Child 92524: Starting thread to listen on port 443.
+[Fri Dec 23 19:39:25 2016] [notice] Child 92524: Starting thread to listen on port 80.
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+[Fri Dec 23 19:39:53 2016] [error] [client 127.0.0.1] File does not exist: C:/Users/Eduardo Isidoro/Desktop/plemiona 7.0/htdocs/graphic/login_close.png, referer: http://127.0.0.1/
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+[Fri Dec 23 19:40:15 2016] [error] [client 127.0.0.1] File does not exist: C:/Users/Eduardo Isidoro/Desktop/plemiona 7.0/htdocs/graphic/login_close.png, referer: http://127.0.0.1/index.php?log=ice41
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+[Fri Dec 23 19:56:36 2016] [error] [client 127.0.0.1] File does not exist: C:/Users/Eduardo Isidoro/Desktop/plemiona 7.0/htdocs/favicon.ico, referer: http://127.0.0.1/serwer_2/game.php?village=448&screen=report&mode=all&view=55
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+[Fri Dec 23 20:02:14 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 23 20:02:14 2016] [notice] Child 92524: Exit event signaled. Child process is ending.
+[Fri Dec 23 20:02:15 2016] [notice] Child 92524: Released the start mutex
+[Fri Dec 23 20:02:16 2016] [notice] Child 92524: Waiting for 250 worker threads to exit.
+[Fri Dec 23 20:02:16 2016] [notice] Child 92524: All worker threads have exited.
+[Fri Dec 23 20:02:16 2016] [notice] Child 92524: Child process is exiting
+[Fri Dec 23 20:02:16 2016] [notice] Parent: Child process exited successfully.
+[Fri Aug 17 00:07:05 2018] [notice] Apache/2.2.3 (Win32) DAV/2 mod_ssl/2.2.3 OpenSSL/0.9.8d mod_autoindex_color PHP/4.4.2 configured -- resuming normal operations
+[Fri Aug 17 00:07:05 2018] [notice] Server built: Sep 30 2006 21:24:06
+[Fri Aug 17 00:07:05 2018] [notice] Parent: Created child process 12540
+Apache server shutdown initiated...
+hild 12540: Child process is running
+[Fri Aug 17 00:07:05 2018] [notice] Child 12540: Acquired the start mutex.
+[Fri Aug 17 00:07:05 2018] [notice] Child 12540: Starting 250 worker threads.
+[Fri Aug 17 00:07:05 2018] [notice] Child 12540: Starting thread to listen on port 443.
+[Fri Aug 17 00:07:05 2018] [notice] Child 12540: Starting thread to listen on port 80.
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+[Fri Aug 17 00:09:09 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 17 00:09:09 2018] [notice] Child 12540: Exit event signaled. Child process is ending.
+[Fri Aug 17 00:09:10 2018] [notice] Child 12540: Released the start mutex
+[Fri Aug 17 00:09:11 2018] [notice] Child 12540: Waiting for 250 worker threads to exit.
+[Fri Aug 17 00:09:31 2018] [notice] Child 12540: All worker threads have exited.
+[Fri Aug 17 00:09:31 2018] [notice] Child 12540: Child process is exiting
+[Wed Jan 10 01:41:46 2024] [warn] pid file D:/servers/servers/tralha tribalwars/plemiona 7.0/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 10 01:41:46 2024] [notice] Apache/2.2.3 (Win32) DAV/2 mod_ssl/2.2.3 OpenSSL/0.9.8d mod_autoindex_color PHP/4.4.2 configured -- resuming normal operations
+[Wed Jan 10 01:41:46 2024] [notice] Server built: Sep 30 2006 21:24:06
+[Wed Jan 10 01:41:46 2024] [notice] Parent: Created child process 9796
+Apache server shutdown initiated...
+hild 9796: Child process is running
+[Wed Jan 10 01:41:47 2024] [notice] Child 9796: Acquired the start mutex.
+[Wed Jan 10 01:41:47 2024] [notice] Child 9796: Starting 250 worker threads.
+[Wed Jan 10 01:41:47 2024] [notice] Child 9796: Starting thread to listen on port 80.
+[Wed Jan 10 01:41:47 2024] [notice] Child 9796: Starting thread to listen on port 443.
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+[Wed Jan 10 01:41:58 2024] [error] [client 127.0.0.1] File does not exist: D:/servers/servers/tralha tribalwars/plemiona 7.0/htdocs/favicon.ico, referer: http://localhost/
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+File 'c:\mysql\share\charsets\?.conf' not found (Errcode: 2)
+Character set '#48' is not a compiled character set and is not specified in the 'c:\mysql\share\charsets\Index' file
+[Wed Jan 10 01:43:19 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 10 01:43:19 2024] [notice] Child 9796: Exit event signaled. Child process is ending.
+[Wed Jan 10 01:43:20 2024] [notice] Child 9796: Released the start mutex
+[Wed Jan 10 01:43:21 2024] [notice] Child 9796: Waiting for 250 worker threads to exit.
+[Wed Jan 10 01:43:21 2024] [notice] Child 9796: All worker threads have exited.
+[Wed Jan 10 01:43:21 2024] [notice] Child 9796: Child process is exiting
+[Wed Jan 10 01:43:21 2024] [notice] Parent: Child process exited successfully.
