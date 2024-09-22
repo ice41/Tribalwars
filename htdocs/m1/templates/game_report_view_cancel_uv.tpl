@@ -1,0 +1,2 @@
+<p><a href="game.php?village={$village.id}&amp;screen=info_player&amp;id={$report.from_user}">{$report.from_username|urldecode}</a> cancelou o pedido de modo de f&eacute;rias.</p>
+<a href="game.php?village={$village.id}&amp;screen=settings&amp;mode=vacation">&raquo; Modo de f&eacute;rias</a>

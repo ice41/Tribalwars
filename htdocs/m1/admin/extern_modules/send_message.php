@@ -1,0 +1,1 @@
+<?php$toolname = "Trimite mesaj unui jucator";$screenname = "send_message";?>

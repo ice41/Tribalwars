@@ -1,0 +1,2 @@
+<p><a href="game.php?village={$village.id}&amp;screen=info_player&amp;id={$report.from_user}">{$report.from_username|urldecode}</a> aceirou a solicita&ccedil;&atilde;o de substitui&ccedil;&atilde;o de f&eacute;rias</p>
+<a href="game.php?village={$village.id}&amp;screen=settings&amp;mode=vacation">Modo de f&eacute;rias</a>

@@ -1,0 +1,1 @@
+<?php$toolname = "Multi account";$screenname = "anti_cheat";?>
