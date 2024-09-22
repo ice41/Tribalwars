@@ -1,0 +1,222 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+	background-color: #161c1c;
+	font-family:Arial,Verdana,sans-serif;
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+}
+
+#container {
+	margin: 0 auto;
+	position: relative;
+	width: 980px;
+}
+
+#content {
+	background-color: #fff;
+	-webkit-border-radius: 0px 0px 10px 10px;
+	border-radius: 0px 0px 10px 10px;
+	padding: 15px;
+	-webkit-box-shadow: inset 0px 0px 5px 3px rgba(22, 28, 28, 0.3), 0px 0px 5px 3px rgba(0, 0, 0, 0.2);  
+	box-shadow: inset 0px 0px 5px 3px rgba(22, 28, 28, 0.3), 0px 0px 5px 3px rgba(0, 0, 0, 0.2);
+}
+
+#footer {
+	margin: 6px 0;
+}
+
+#footer a {
+	color: #fff;
+}
+
+#footer div {
+	width: 500px;
+	margin: 0 auto;
+	color: #fff;
+	font-size: 11px !important;
+	text-align: center;
+}
+
+#header {
+	margin-top: 10px;
+	height: 70px;
+	background-color: #344a56;
+	border-left: 1px solid #2d3e48;
+	border-right: 1px solid #2d3e48;
+	-webkit-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+	background-image: -moz-linear-gradient(top, #364e5a, #242f37);
+	background-image: -webkit-linear-gradient(top, #364e5a, #242f37);
+	background-image: -o-linear-gradient(top, #364e5a, #242f37);
+	background-image: -ms-linear-gradient(top, #364e5a, #242f37);
+	background-image: -linear-gradient(top, #364e5a, #242f37);
+}
+
+h1 {
+	margin: 0 15px;
+	font-family: 'Helvetica Neue',Helvetica,​Arial;
+	font-weight: 700;
+	color: #FFF;
+	font-size: 45px;
+	line-height: 70px;
+	text-rendering: optimizelegibility;
+	text-shadow: 0 2px 3px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 0, 0, 0.075);
+}
+
+h2 {
+	color: #2e5d23;
+	font-weight: bold;
+	font-size: 23px;
+	border-bottom: 1px solid #999999;
+	margin: 2px 0 18px;
+	padding: 0;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 0 0 30px rgba(0, 0, 0, 0.075);
+}
+
+h3 {
+	height: 24px;
+	background-image: url('../images/new/h3.png');
+	backgroud-repeat: repeat-x;
+	text-align: left;
+	padding: 0 5px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 24px;
+	margin: 10px 0;
+}
+
+#header img {
+	margin-top: 15px;
+}
+
+#sep {
+	height: 10px;
+	background-color: #5f9e45;
+}
+
+p {
+	margin: 10px 0px;
+}
+
+.choose_game {
+	padding: 0 10px;
+	float: right;
+	width: 440px;
+}
+
+.choose_game ul {
+	float: right; 
+	width: 220px
+}
+
+.choose_game ul li {
+	background-repeat: no-repeat;
+	padding-left: 24px;
+	margin-bottom: 2px;
+}
+
+.reply h4 {
+	background-color: #2e5d23;
+	background-image: -moz-linear-gradient(top, #2e5d23, #5f9e45);
+	background-image: -webkit-linear-gradient(top, #2e5d23, #5f9e45);
+	background-image: -o-linear-gradient(top, #2e5d23, #5f9e45);
+	background-image: -ms-linear-gradient(top, #2e5d23, #5f9e45);
+	background-image: -linear-gradient(top, #2e5d23, #5f9e45);
+	-webkit-border-radius: 5px 5px 0px 0px;
+	border-radius: 5px 5px 0px 0px;
+	border: 1px solid #555555;
+	height: 18px;
+	line-height: 18px;
+	color: #fff;
+	font-size: 14px;
+	padding: 3px;
+	font-weight: bold;
+}
+
+.player h4 {
+	background-color: #555555;
+	background-image: -moz-linear-gradient(top, #555555, #999999);
+	background-image: -webkit-linear-gradient(top, #555555, #999999);
+	background-image: -o-linear-gradient(top, #555555, #999999);
+	background-image: -ms-linear-gradient(top, #555555, #999999);
+	background-image: -linear-gradient(top, #555555, #999999);
+}
+
+.reply h4 span {
+	line-height: 18px;
+	font-size: 13px;
+	float: right;
+}
+
+.reply > div {
+	border-left: 1px solid #555555;
+	border-bottom: 1px solid #555555;
+	border-right: 1px solid #555555;
+	padding: 4px;
+	background-color: #ededed;
+}
+
+.reply {
+	margin-bottom: 15px;
+}
+
+
+.quote {
+	margin: 5px 20px 5px;
+	padding: 5px;
+	border: 1px inset ;
+}
+
+.quote_content {
+	font-style: italic;
+}
+
+a {
+	font-weight: bold;
+}
+
+a.btn {
+	font-weight: normal;
+}

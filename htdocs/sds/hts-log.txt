@@ -1,0 +1,13 @@
+HTTrack3.46+htsswf+htsjava launched on Sat, 29 Dec 2012 14:06:10 at http://support.innogames.de/login/to/game/staemme/market/ro +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "en, en, *" http://support.innogames.de/login/to/game/staemme/market/ro -O1 C:\Users\Andrei\Desktop\sds +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:06:10	Warning: 	File not parsed, looks like binary: support.innogames.de/robots.txt
+14:06:19	Error: 	"No data (connection closed)" (-4) after 2 retries at link support.innogames.de/files/js/player.js?1 (from support.innogames.de/login/to/game/staemme/market/ro)
+
+HTTrack Website Copier/3.46 mirror complete in 9 seconds : 16 links scanned, 10 files written (244753 bytes overall) [245502 bytes received at 27278 bytes/sec], 6995 bytes transfered using HTTP compression in 4 files, ratio 52%, 2.0 requests per connection
+(1 errors, 1 warnings, 0 messages)

@@ -1,0 +1,2 @@
+<p><a href="game.php?village={$village.id}&amp;screen=info_player&amp;id={$report.from_user}">{$report.from_username}</a> te-a invitat s&#259; il reprezin&#355;i deoarece el a ini&#355;ializat modul de vacan&#355;&#259;.</p>
+<a href="game.php?village={$village.id}&amp;screen=settings&amp;mode=vacation">Modul de vacan&#355;&#259;</a>

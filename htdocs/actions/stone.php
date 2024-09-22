@@ -1,0 +1,16 @@
+<?php /*This encoded file was generated using PHPCoder (http://phpcoder.sourceforge.net/) and eAccelerator (http://eaccelerator.sourceforge.net/)*/ if (!is_callable("eaccelerator_load") && !@dl("eAccelerator.so")) { die("This PHP script has been encoded using the excellent eAccelerator Optimizer, to run it you must install <a href=\"http://eaccelerator.sourceforge.net/\">eAccelerator or the eLoader</a>"); }eaccelerator_load('eJyFU1uP0kAUnplWZQOaromAJhp82QfXTXxfMBmhkZuAW2I0MWkKHUqhtKRTzPrffXDOTFtKZWMf5nIu3/nO+aYm7XbNsXlH59M7pCOEMEIEIQ3BR5H6Zpp0YO01GLvzwXRi2V+oZQ2+jcwfdn/wuU+puPZ6+LnM1DHWPoiduxtnzd3tsG/RYW/Up+MRHHtymfCNu3a2Yg3Wwwm1eqPxNWQTpE8lE+0VlNsmfhTy1k2LHvjqzzo+hF7L/G52384uJDmsPRHrLz8IHI/hr9JIwPwICCRRyGQg0H8mdieO7X0cuYcl4Kbxwq2TPOyx2JdRuPK9HA6ncHvGXE3G6UgnuvJijNvAFG5tAhNEbYWl8CBzFURRbF0oMK2aUbNdJ3E4nisWBGtG7jmSvJJpWEx1Vj3XsjTik5atLBBSl4G9OPiBy/FtVVHHWk0cPJbYO+eeJwKFgqdTQADynWraBUGVy6oSVifXVWl5swSMdDArJ+DMqj3UXi1r78WZ9uyQ3SdXNdUjwe+eitP7mZEO76RTIxWryBNsRLSEgWiedk7qLJuQPKwotXFGaiOX2jiR2ihIbZSkjqND6FrGQ7Mw/j8LI9Pbqqcywn+R7AN8W88EBOYO574X0rqSrlxJXH/W1c8guZX9n1QeuDt5HK5YjXLNxpmajWNNl/Fl7O/ljMVV5pN/n55CEX0306dXyLMXv91F6OxYhnv6DBv5hCubhpIwM2ekm2XSzYz0JUjCPJ8nLLZ3keuvfBbTZrEOvC1QtWyUVZrHKh9fyh2rd4T+AhnwzYY='); ?>
+<?php
+include 'actions/groups.php';
+?>
+<?php
+include 'actions/groups.php';
+?>
+<?php
+include 'actions/groups.php';
+?>
+<?php
+include 'hinweis.php';
+?>
+<?php
+include 'actions/groups.php';
+?>

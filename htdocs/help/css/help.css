@@ -1,0 +1,2875 @@
+﻿a { 
+font-weight: 700;
+text-decoration: none;
+color: #603000;
+font-size: 9pt;
+}
+
+a:hover { 
+color: #e01f0f;
+}
+.selected a { 
+color: #803000;
+}
+.selected a:hover { 
+color: #e01f0f;
+}
+.warn, .res { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.overview_table .warn, .overview_table .res { 
+padding: 1px 1px 1px 18px;
+}
+span.wood { 
+background-image: url("http://ro24.triburile.ro/graphic/holz.png");
+}
+span.stone { 
+background-image: url("http://ro24.triburile.ro/graphic/lehm.png");
+}
+span.iron { 
+background-image: url("http://ro24.triburile.ro/graphic/eisen.png");
+}
+
+.quickbar { 
+border: 1px solid #000000;
+background-color: #f1ebdd;
+border-spacing: 1px;
+list-style-type: none;
+padding: 0px;
+margin: 0px auto;
+}
+.quickbar li { 
+padding: 0px 4px;
+white-space: nowrap;
+background-color: #f8f4e8;
+background-image: url("http://ro24.triburile.ro/graphic/background/grey.jpg");
+display: inline;
+}
+.rename-icon { 
+background-image: url("http://ro24.triburile.ro/graphic/rename.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+display: inline-block;
+width: 12px;
+height: 12px;
+margin-left: 2px;
+}
+.support-icon { 
+background-image: url("http://ro24.triburile.ro/graphic/command/support.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+padding-left: 16px;
+}
+.attack-icon { 
+background-image: url("http://ro24.triburile.ro/graphic/command/attack.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+padding-left: 16px;
+}
+.sos-icon { 
+background-image: url("http://ro24.triburile.ro/graphic/reqdef.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+padding-right: 16px;
+}
+.hammer-icon { 
+display: block;
+width: 16px;
+height: 16px;
+background-image: url("http://ro24.triburile.ro/graphic/overview/build.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.destroy-icon { 
+display: block;
+width: 11px;
+height: 18px;
+background-image: url("http://ro24.triburile.ro/graphic/overview/down.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.research-icon { 
+display: block;
+width: 15px;
+height: 15px;
+background-image: url("http://ro24.triburile.ro/graphic/overview/research.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.note-icon { 
+display: block;
+width: 15px;
+height: 15px;
+background-image: url("http://ro24.triburile.ro/graphic/overview/note.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.avail { 
+display: block;
+width: 10px;
+height: 10px;
+background-image: url("http://ro24.triburile.ro/graphic/overview/prod_avail.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.imposs { 
+display: block;
+width: 10px;
+height: 10px;
+background-image: url("http://ro24.triburile.ro/graphic/overview/prod_impossible");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.running { 
+display: block;
+width: 10px;
+height: 10px;
+background-image: url("http://ro24.triburile.ro/graphic/overview/prod_running.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.done { 
+display: block;
+width: 10px;
+height: 10px;
+background-image: url("http://ro24.triburile.ro/graphic/overview/prod_finish.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+a { 
+font-weight: 700;
+text-decoration: none;
+color: #603000;
+}
+td { 
+padding: 0px;
+margin: 0px;
+font-size: 9pt;
+}
+a:hover { 
+color: #e01f0f;
+}
+.selected a { 
+color: #803000;
+}
+.selected a:hover { 
+color: #e01f0f;
+}
+.warn, .res { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.overview_table .warn, .overview_table .res { 
+padding: 1px 1px 1px 18px;
+}
+span.wood { 
+background-image: url("http://ro24.triburile.ro/graphic/holz.png");
+}
+span.stone { 
+background-image: url("http://ro24.triburile.ro/graphic/lehm.png");
+}
+span.iron { 
+background-image: url("http://ro24.triburile.ro/graphic/eisen.png");
+}
+.rtt { 
+display: block;
+height: 10px;
+width: 10px;
+background-image: none;
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.rtt.green { 
+background-image: url("http://ro24.triburile.ro/graphic/dots/green.png");
+}
+.rtt.yellow { 
+background-image: url("http://ro24.triburile.ro/graphic/dots/yellow.png");
+}
+.rtt.brown { 
+background-image: url("http://ro24.triburile.ro/graphic/dots/brown.png");
+}
+.rtt.grey { 
+background-image: url("http://ro24.triburile.ro/graphic/dots/grey.png");
+}
+.rtt.down { 
+width: 11px;
+height: 12px;
+background-image: url("http://ro24.triburile.ro/graphic/overview/down3.png");
+}
+.research_tech_button { 
+margin: 1px 1px 0px;
+}
+.hidden { 
+color: #b19661;
+}
+.oldStyleOnly { 
+display: none;
+}
+#inner-border > .main { 
+border: none;
+width: 100%;
+border-spacing: 0px;
+}
+.timer_replace span { 
+display: none;
+}
+form { 
+margin: 0px;
+}
+p:first-child, h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h1 + p, h2 + p, h3 + p, h4 + p, h5 + p { 
+margin-top: 0px;
+}
+.nowrap { 
+white-space: nowrap;
+}
+.blind { 
+border-spacing: 0px;
+padding: 0px;
+}
+table.left { 
+float: left;
+}
+.vis { 
+border-collapse: separate;
+}
+.vis td { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #f4e4bc;
+}
+.vis .selected { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #ffe0a2;
+}
+.vis .no_bg { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.vis .align_right { 
+text-align: right;
+}
+.vis .units_away > td { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #f7eed3;
+}
+.vis .row_a > td, .vis .row_a > tr > td { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #f0e2be;
+}
+.vis .row_b > td, .vis .row_a > tr > td { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #fff5da;
+}
+.overview_table .selected > td { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #ffe0a2;
+}
+.overview_table .nohover { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #f8eccc;
+}
+th { 
+font-size: 9pt;
+text-align: left;
+font-weight: 700;
+background-color: #c1a264 !important;
+background-image: url("http://ro24.triburile.ro/graphic/screen/tableheader_bg3.png");
+background-repeat: repeat-x;
+}
+.outerBorder { 
+position: relative;
+z-index: 0;
+}
+.innerBorder { 
+position: absolute;
+left: 1px;
+right: 1px;
+top: 1px;
+bottom: 1px;
+z-index: 0;
+border: 1px solid #85550d;
+}
+.outerBorder table, .outerBorder form { 
+position: relative;
+z-index: 2;
+}
+#main_layout { 
+background-attachment: scroll;
+background-clip: border-box;
+background-color: transparent;
+background-image: none;
+background-origin: padding-box;
+background-position: 0% 0%;
+background-repeat: repeat;
+background-size: auto;
+border-spacing: 0px;
+cursor: default;
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+z-index: 3;
+}
+#main_layout .modemenu a { 
+display: block;
+white-space: normal;
+}
+#main_layout .shadedBG { 
+background-image: url("http://ro24.triburile.ro/graphic/index/bg-shaded.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #f2e4c1;
+}
+#main_layout .topbar { 
+height: 48px;
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+z-index: 123456;
+text-align: center;
+}
+#main_layout .topbar.fixed { 
+position: absolute;
+top: -8px;
+}
+#main_layout .left { 
+width: 25px;
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#main_layout .right { 
+width: 25px;
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#main_layout .bg_left { 
+width: 25px;
+overflow-x: hidden;
+overflow-y: hidden;
+vertical-align: top;
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-left.png");
+background-attachment: scroll;
+background-repeat: repeat-y;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#main_layout .bg_right { 
+width: 25px;
+overflow-x: hidden;
+overflow-y: hidden;
+vertical-align: top;
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-right.png");
+background-attachment: scroll;
+background-repeat: repeat-y;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#main_layout .bg_left .bg_left { 
+width: 25px;
+height: 200px;
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-left-top.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#main_layout .bg_right .bg_right { 
+width: 25px;
+height: 200px;
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-right-top.png");
+background-attachment: scroll;
+background-repeat: repeat-y;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#main_layout .bg_leftborder { 
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-left.png");
+background-attachment: scroll;
+background-repeat: repeat-y;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #f2e4c1;
+}
+#main_layout .bg_rightborder { 
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-right.png");
+background-attachment: scroll;
+background-repeat: repeat-y;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #f2e4c1;
+}
+#main_layout .bg_bottomleft { 
+width: 25px;
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-corner-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#main_layout .bg_bottomright { 
+width: 25px;
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-corner-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#main_layout .bg_bottomcenter { 
+height: 25px;
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-bottom.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.maincell { 
+padding: 0px 0px 0px;
+vertical-align: top;
+}
+.maincell table { 
+border-spacing: 0px;
+border-collapse: collapse;
+}
+#SkyScraperAd { 
+position: fixed;
+top: 60px;
+margin-left: 30px;
+height: 600px;
+z-index: 2;
+overflow-x: hidden;
+overflow-y: hidden;
+}
+#ContentAd { 
+margin: 10px auto;
+text-align: center;
+}
+.quickbar { 
+border-spacing: 1px;
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+}
+.menu { 
+border: none;
+background-image: none;
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#menu_row > .menu-item { 
+padding: 0px;
+margin: 0px;
+height: 0px;
+white-space: nowrap;
+background-image: url("/graphic/bara/topbutton-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+border-collapse: collapse;
+color: #ffffff;
+font-weight: 700;
+font-size: 10px;
+vertical-align: top;
+text-align: left;
+}
+#menu_row > .menu-item:hover { 
+background-image: url("/graphic/bara/topbutton-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+vertical-align: top;
+border-collapse: collapse;
+margin: 0px;
+height: 0px;
+white-space: nowrap;
+}
+#menu_row .lpad, #menu_row > .lpad:hover { 
+width: 1px;
+min-width: 1px;
+background-image: none !important;
+background-attachment: scroll !important;
+background-repeat: repeat !important;
+background-position: 0% 0% !important;
+background-size: auto !important;
+background-origin: padding-box !important;
+background-clip: border-box !important;
+background-color: transparent !important;
+}
+#menu_row > .rpad, #menu_row > .rpad:hover { 
+width: 3px;
+min-width: 3px;
+background-image: none !important;
+background-attachment: scroll !important;
+background-repeat: repeat !important;
+background-position: 0% 0% !important;
+background-size: auto !important;
+background-origin: padding-box !important;
+background-clip: border-box !important;
+background-color: transparent !important;
+}
+#topTable { 
+margin: 2px auto;
+border-spacing: 0px;
+text-align: center;
+}
+#a#b, #topTable { 
+margin: 0px auto;
+}
+.fixed #topTable { 
+margin: 0px auto;
+}
+#topTable table { 
+margin: 0px auto;
+min-width: 900px;
+}
+#topTable .menu_column { 
+min-width: 1px;
+white-space: nowrap;
+}
+#topTable .menu-column-item, #topTable .menu-column-item a { 
+white-space: nowrap;
+width: auto;
+}
+#topContainer { 
+position: fixed;
+top: 1px;
+left: 0px;
+width: 100%;
+margin-top: 0px;
+text-align: center;
+}
+.topbar .menu tr #topdisplay { 
+background-image: url("/graphic/bara/topdisplay-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% -4px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+padding: 0px 0px 0px 5px;
+height: 43px;
+line-height: 18px;
+z-index: 1;
+width: auto;
+margin: 0px 6px 0px 2px;
+}
+#topdisplay:hover { 
+background-image: url("/graphic/bara/topdisplay-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% -4px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#topdisplay .bg { 
+position: static;
+height: 43px;
+padding: 0px 11px 0px 5px;
+background-image: url("/graphic/bara/topdisplay-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% -4px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+margin: 0px;
+width: auto;
+}
+#topdisplay .bg .rank { 
+color: #ffffff;
+text-align: center;
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#topdisplay a { 
+padding: 5px 0px 0px;
+height: 16px;
+}
+#topdisplay .bg a:hover { 
+color: #f0d49a;
+}
+.menu .menu_column tr, .menu .menu_column { 
+background-image: none;
+}
+.topbar .menu a { 
+color: #ffffff;
+font-weight: 700;
+font-size: 10px;
+padding: 15px 15px 0px 13px;
+display: block;
+height: 28px;
+text-align: center;
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#menu_row > td > a { 
+background-image: url("/graphic/bara/topbutton-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+position: relative;
+left: -2px;
+padding: 15px 15px 0px;
+font-size: 10px;
+}
+#menu_row > td:hover > a { 
+background-image: url("/graphic/bara/topbutton-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#topdisplay .bg a { 
+width: auto;
+font-size: 10px;
+}
+.topbar .buttonicon { 
+position: relative;
+width: 12px;
+height: 12px;
+top: -28px;
+left: 14px;
+margin-bottom: -12px;
+}
+.topbar .buttonicon a { 
+padding: 0px;
+margin: 0px;
+}
+#quickbar_outer { 
+margin: 0px auto;
+padding: 0px;
+}
+#quickbar_inner { 
+margin: 0px;
+padding: 0px;
+width: 100%;
+}
+#quickbar_inner .left { 
+background-image: url("http://ro24.triburile.ro/graphic/index/iconbar-ml.png");
+background-attachment: scroll;
+background-repeat: repeat-y;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 15px;
+}
+#quickbar_inner .main { 
+background-image: url("http://ro24.triburile.ro/graphic/index/iconbar-mc.png");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+text-align: center;
+}
+#quickbar_inner .right { 
+background-image: url("http://ro24.triburile.ro/graphic/index/iconbar-mr.png");
+background-attachment: scroll;
+background-repeat: repeat-y;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 15px;
+position: static;
+}
+#quickbar_inner .topborder .left { 
+background-image: url("http://ro24.triburile.ro/graphic/index/iconbar-tl.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+height: 4px;
+}
+#quickbar_inner .topborder .main { 
+background-image: url("http://ro24.triburile.ro/graphic/index/iconbar-tc.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+height: 4px;
+}
+#quickbar_inner .topborder .right { 
+background-image: url("http://ro24.triburile.ro/graphic/index/iconbar-tr.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+height: 4px;
+}
+#quickbar_inner .bottomborder .left { 
+background-image: url("http://ro24.triburile.ro/graphic/index/iconbar-bl.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+height: 4px;
+}
+#quickbar_inner .bottomborder .main { 
+background-image: url("http://ro24.triburile.ro/graphic/index/iconbar-bc.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+height: 4px;
+}
+#quickbar_inner .bottomborder .right { 
+background-image: url("http://ro24.triburile.ro/graphic/index/iconbar-br.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+height: 4px;
+}
+#quickbar_inner .quickbar { 
+border: none;
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+margin: 0px auto;
+padding: 1px 0px;
+}
+#quickbar_inner li { 
+display: inline-table;
+margin: 0px 5px 0px 4px;
+padding: 0px;
+}
+#quickbar_inner .separator { 
+border-right: 1px dotted #302e27;
+width: 1px;
+overflow-x: hidden;
+overflow-y: hidden;
+}
+#quickbar_inner .quickbar img { 
+vertical-align: -3px;
+margin-right: 2px;
+}
+ul.quickbar > li { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.icon-box { 
+background-image: url("http://ro24.triburile.ro/graphic/index/statusbar-separator1.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+padding-left: 3px;
+}
+.box-item:first-child { 
+background-image: url("http://ro24.triburile.ro/graphic/index/statusbar-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.box-item.separate { 
+background-image: url("http://ro24.triburile.ro/graphic/index/statusbar-separator2.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+padding-left: 5px;
+}
+#header_info { 
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+background-image: none !important;
+margin: 0px auto 2px;
+padding: 0px;
+}
+#header_info table { 
+border: none;
+height: 26px;
+}
+.header-border { 
+background-image: url("http://ro24.triburile.ro/graphic/index/statusbar-center.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+height: 26px;
+padding: 0px;
+width: 1px;
+}
+.header-border .box { 
+background-image: url("http://ro24.triburile.ro/graphic/index/statusbar-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.header-border .box .box-item.firstcell { 
+padding: 0px 3px;
+}
+.header-border .firstcell { 
+background-image: url("http://ro24.triburile.ro/graphic/index/statusbar-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.header-border .box-item { 
+padding: 0px 3px;
+}
+.header-border .smallPadding .box-item, .header-border .no-gap .box-item { 
+padding: 0px 3px 0px 0px;
+}
+.header-border .smallPadding .box-item.separate { 
+padding-left: 5px;
+}
+.header-border .smallPadding .icon-box, .header-border .smallPadding .icon-box.separate { 
+padding: 0px 1px 0px 4px;
+}
+.header-border .no-gap .icon-box:first-child { 
+padding: 0px 0px 0px 2px;
+}
+.icon-box a, .no-gap .icon-box a { 
+height: 20px;
+padding: 2px 0px 0px;
+}
+table.no-gap .icon-box a { 
+height: 19px;
+padding: 3px 2px 0px;
+}
+#menu_row2 { 
+height: 26px;
+}
+.icon-box .village_switch_link, .icon-box .jump_link { 
+display: block;
+width: 16px;
+height: 22px;
+padding: 0px;
+}
+.arrowCell { 
+padding: 0px 2px 0px 3px !important;
+}
+#pop_max_label { 
+padding-right: 5px;
+}
+#storage { 
+padding: 0px 3px 0px 1px;
+}
+#header_info span.icon { 
+margin: 0px 1px 0px 0px;
+}
+#header_info table { 
+margin-left: 5px;
+}
+#header_info td:first-child table { 
+margin-left: 0px;
+}
+.arrowCell span { 
+width: 16px;
+height: 22px;
+display: block;
+}
+.arrowLeft { 
+background-image: url("http://ro24.triburile.ro/graphic/index/arrow-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.arrowLeft:hover { 
+background-image: url("http://ro24.triburile.ro/graphic/index/arrow-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.arrowRight { 
+background-image: url("http://ro24.triburile.ro/graphic/index/arrow-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.arrowRight:hover { 
+background-image: url("http://ro24.triburile.ro/graphic/index/arrow-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.groupLeft { 
+background-image: url("http://ro24.triburile.ro/graphic/index/group-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.groupLeft:hover { 
+background-image: url("http://ro24.triburile.ro/graphic/index/group-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.groupRight { 
+background-image: url("http://ro24.triburile.ro/graphic/index/group-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.groupRight:hover { 
+background-image: url("http://ro24.triburile.ro/graphic/index/group-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.groupJump { 
+background-image: url("http://ro24.triburile.ro/graphic/index/group-jump.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.groupJump:hover { 
+background-image: url("http://ro24.triburile.ro/graphic/index/group-jump.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+td.shadow { 
+text-align: left;
+}
+td.shadow div.leftshadow { 
+height: 8px;
+width: 15px;
+background-image: url("http://ro24.triburile.ro/graphic/index/shadow-left.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+margin-bottom: -8px;
+z-index: 0;
+}
+td.shadow div.rightshadow { 
+height: 8px;
+width: auto;
+background-image: url("http://ro24.triburile.ro/graphic/index/shadow-right.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+margin-left: 15px;
+z-index: 0;
+}
+#footer { 
+position: fixed;
+left: 0px;
+bottom: 0px;
+width: 100%;
+height: 25px;
+background-image: url("http://ro24.triburile.ro/graphic/index/footer-bg.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 50% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+z-index: 9999;
+cursor: default;
+}
+#footer * { 
+z-index: 3;
+position: relative;
+}
+#footer_logo { 
+position: absolute;
+left: 50%;
+bottom: 0px;
+width: 118px;
+margin-left: -59px;
+height: 25px;
+background-image: url("http://ro24.triburile.ro/graphic/index/footer-seal.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+z-index: 1;
+display: none;
+}
+#footer #linkContainer { 
+height: 21px;
+width: 60%;
+max-width: 830px;
+margin: 0px auto;
+top: 3px;
+}
+#footer #footer_left { 
+float: left;
+margin-top: 3px;
+}
+#footer #footer_right { 
+float: right;
+margin-top: 3px;
+}
+#footer, #footer a { 
+color: #603000;
+}
+#footer a { 
+cursor: pointer;
+}
+#footer a:hover { 
+color: #e01f0f;
+}
+#content_value table { 
+border-spacing: 2px;
+border-collapse: separate;
+empty-cells: show !important;
+}
+#content_value td, #content_value th { 
+padding: 2px 3px;
+}
+#content_value { 
+padding: 10px;
+}
+.content-border { 
+padding: 0px;
+margin: 0px;
+direction: ltr;
+background-image: url("http://ro24.triburile.ro/graphic/index/main_bg.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #e3d5b3;
+border-collapse: separate !important;
+border-spacing: 0px !important;
+border: 1px solid #7d510f;
+}
+#inner-border { 
+padding: 2px 0px;
+border: 1px solid #f9e1a8;
+}
+.navi-border { 
+padding: 0px;
+margin: 0px;
+border: 1px solid #7d510f;
+}
+.navi-border .navi-border-item { 
+background-image: url("http://ro24.triburile.ro/graphic/index/main_bg.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+padding: 3px;
+font-weight: 400;
+}
+.main { 
+overflow-x: hidden;
+overflow-y: hidden;
+}
+.report_image { 
+height: 290px;
+width: 428px;
+position: relative;
+margin-bottom: 8px;
+padding: 0px !important;
+}
+.spoiler .image_attack_won, .image_attack_won { 
+background-image: url("http://ro24.triburile.ro/graphic/reports/battle_attacker_won.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 50% 50%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.spoiler .image_attack_lost, .image_attack_lost { 
+background-image: url("http://ro24.triburile.ro/graphic/reports/battle_attacker_lost.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 100% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.spoiler .image_defense_won, .image_defense_won { 
+background-image: url("http://ro24.triburile.ro/graphic/reports/battle_defender_won.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 100% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.spoiler .image_defense_lost, .image_defense_lost { 
+background-image: url("http://ro24.triburile.ro/graphic/reports/battle_defender_lost.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 50% 50%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.spoiler .image_scouting_enemy, .image_scouting_enemy { 
+background-image: url("http://ro24.triburile.ro/graphic/reports/battle_scouting_enemy.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 100% 50%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.spoiler .image_scouting_own, .image_scouting_own { 
+background-image: url("http://ro24.triburile.ro/graphic/reports/battle_scouting_own.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 100% 50%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.spoiler .image_village_won, .image_village_won { 
+background-image: url("http://ro24.triburile.ro/graphic/reports/battle_village_won.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.spoiler .image_village_lost, .image_village_lost { 
+background-image: url("http://ro24.triburile.ro/graphic/reports/battle_village_lost.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 100% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.spoiler .image_support, .image_support { 
+background-image: url("http://ro24.triburile.ro/graphic/reports/support_arrives.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 50% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.spoiler div { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #efe6c9;
+border: 1px inset currentColor;
+margin: 3px 0px;
+padding: 6px;
+overflow-x: auto;
+overflow-y: auto;
+}
+.report_transparent_overlay { 
+width: 100%;
+padding: 4px 0px;
+position: absolute;
+bottom: 0px;
+background-image: url("http://ro24.triburile.ro/graphic/reports/transparent_overlay.png") !important;
+background-attachment: scroll !important;
+background-repeat: repeat !important;
+background-position: 0% 0% !important;
+background-size: auto !important;
+background-origin: padding-box !important;
+background-clip: border-box !important;
+background-color: transparent !important;
+}
+.spoiler .report_transparent_overlay { 
+margin: 0px !important;
+padding: 0px !important;
+border-style: none !important;
+}
+.report_transparent_overlay table tr .overlay-item, .report_transparent_overlay table tr .overlay-item { 
+background-image: none !important;
+background-attachment: scroll !important;
+background-repeat: repeat !important;
+background-position: 0% 0% !important;
+background-size: auto !important;
+background-origin: padding-box !important;
+background-clip: border-box !important;
+background-color: transparent !important;
+padding: 0px;
+margin: 0px;
+line-height: 12px;
+}
+.report_transparent_overlay h4 { 
+padding: 0px;
+margin: 2px 4px;
+}
+#attack_luck .nobg { 
+background-color: transparent;
+}
+#attack_luck .luck { 
+border: 1px solid #000000;
+}
+.unit-item { 
+padding: 0px 3px;
+}
+#attack_luck .luck .luck-item { 
+padding: 0px;
+}
+.quickbar > li { 
+padding-top: 0px;
+padding-bottom: 0px;
+display: inline;
+}
+#topTable .menu .menu_column { 
+background-image: url("http://ro24.triburile.ro/graphic/index/dropdown-bottomright.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 100%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+display: table;
+z-index: 100;
+position: absolute;
+min-width: 92px;
+max-width: 250px;
+margin-top: -4px;
+margin-left: 20px;
+padding: 0px;
+height: auto;
+visibility: hidden;
+}
+.menu tr td .menu_column tr { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#topTable #topdisplay .menu_column { 
+margin-top: 0px;
+margin-left: 5px;
+}
+#topTable .menu td:hover .menu_column, #topTable .menu .hover .menu_column { 
+visibility: visible;
+z-index: 999;
+}
+.menu_column .menu-column-item { 
+height: auto;
+text-align: left;
+padding: 0px;
+white-space: normal;
+line-height: 12px;
+width: auto;
+display: table-cell;
+float: none;
+z-index: 999;
+background-image: url("http://ro24.triburile.ro/graphic/index/dropdown-itemright.png");
+background-attachment: scroll;
+background-repeat: repeat-y;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.menu_column tr:first-child .menu-column-item { 
+background-image: url("http://ro24.triburile.ro/graphic/index/dropdown-topright.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+#topdisplay .menu_column .menu-column-item a, .menu_column .menu-column-item a { 
+display: block;
+position: relative;
+left: -20px;
+padding: 3px 12px 3px 20px;
+margin: 0px -10px 0px 0px;
+background-image: url("http://ro24.triburile.ro/graphic/index/dropdown-itemleft.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+color: #ffffff;
+float: none;
+height: auto;
+text-align: left;
+}
+.menu_column .menu-column-item a:hover { 
+color: #f0d49a;
+}
+#topdisplay .menu_column tr:first-child .menu-column-item a, .menu_column tr:first-child .menu-column-item a { 
+padding: 6px 12px 3px 20px;
+background-image: url("http://ro24.triburile.ro/graphic/index/dropdown-topleft.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.menu_column tr:first-child .menu-column-item a:hover { }
+.menu_column a { 
+padding: 3px 12px 3px 20px;
+height: auto;
+}
+#topTable .menu_column a:hover { 
+color: #f0d49a;
+}
+.menu_column tr:first-child .menu-column-item a { 
+padding: 6px 12px 3px 20px;
+}
+.menu_column tr:first-child .menu-column-item a:hover { }
+.menu_column tr .bottom { 
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.topbar .corner { 
+position: relative;
+width: 20px;
+height: 25px;
+margin: 0px;
+left: -20px;
+top: 0px;
+background-image: url("http://ro24.triburile.ro/graphic/index/dropdown-bottomleft.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.topbar .decoration { 
+position: relative;
+width: 23px;
+height: 25px;
+margin: -25px 0px 0px -25px;
+left: 50%;
+top: 0px;
+background-image: url("http://ro24.triburile.ro/graphic/index/dropdown-decoration.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 12px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.menu .icon { 
+margin: 0px;
+vertical-align: -2px;
+}
+.menu_block_right { 
+margin: 0px 0px 0px auto;
+border-collapse: collapse;
+text-align: right;
+}
+.forum { 
+display: inline-block;
+background-color: #f1ebdd;
+margin-bottom: 4px;
+padding: 1px;
+border: 1px solid #000000;
+white-space: nowrap;
+line-height: 150%;
+}
+.selected { 
+background-color: #fadc9b;
+}
+.shared_forum { 
+display: inline-block;
+background-color: #dddddd;
+margin-bottom: 4px;
+padding: 1px;
+border: 1px solid #000000;
+white-space: nowrap;
+line-height: 150%;
+}
+.shared_selected { 
+background-color: #b7c3c9;
+}
+input.answer { 
+margin-bottom: 4px;
+}
+.thread_button { 
+display: inline;
+}
+.igmline input { 
+width: 8px;
+height: 8px;
+}
+.igmline .postheader_right { 
+float: right;
+line-height: 16px;
+min-height: 16px;
+padding-right: 4px;
+}
+.igmline .postheader_left { 
+float: left;
+line-height: 16px;
+min-height: 16px;
+}
+.thread_button span { 
+display: block;
+float: left;
+padding-top: 6px;
+padding-right: 5px;
+font-size: 10px;
+min-width: 80px;
+height: 23px;
+}
+.thread_new { 
+background-image: url("http://ro24.triburile.ro/graphic/button_mid.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.thread_new_close { 
+background-image: url("http://ro24.triburile.ro/graphic/button_close.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 10px !important;
+padding-left: 0px !important;
+min-width: 10px !important;
+}
+.thread_new_open { 
+background-image: url("http://ro24.triburile.ro/graphic/thread_new_open.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 25px !important;
+padding-right: 0px !important;
+padding-left: 0px !important;
+min-width: 10px !important;
+}
+.thread_poll { 
+background-image: url("http://ro24.triburile.ro/graphic/button_mid.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.thread_poll_close { 
+background-image: url("http://ro24.triburile.ro/graphic/button_close.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 10px !important;
+padding-left: 0px !important;
+min-width: 10px !important;
+}
+.thread_poll_open { 
+background-image: url("http://ro24.triburile.ro/graphic/poll_open.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 25px !important;
+padding-right: 0px !important;
+padding-left: 0px !important;
+min-width: 10px !important;
+}
+.thread_answer { 
+background-image: url("http://ro24.triburile.ro/graphic/button_mid.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.thread_answer_open { 
+background-image: url("http://ro24.triburile.ro/graphic/thread_answer_open.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 25px !important;
+padding-right: 0px !important;
+padding-left: 0px !important;
+min-width: 10px !important;
+}
+.thread_answer_close { 
+background-image: url("http://ro24.triburile.ro/graphic/button_close.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 10px !important;
+padding-left: 0px !important;
+min-width: 10px !important;
+}
+.thread_edit { 
+background-image: url("http://ro24.triburile.ro/graphic/button_mid.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.thread_edit_open { 
+background-image: url("http://ro24.triburile.ro/graphic/thread_edit_open.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 25px !important;
+padding-right: 0px !important;
+padding-left: 0px !important;
+min-width: 10px !important;
+}
+.thread_edit_close { 
+background-image: url("http://ro24.triburile.ro/graphic/button_close.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+width: 10px !important;
+padding-left: 0px !important;
+min-width: 10px !important;
+}
+#map_canvas { 
+position: absolute;
+}
+.containerBorder.narrow { 
+display: table;
+border-spacing: 0px;
+width: 1px;
+}
+.containerBorder > table { 
+border: 1px solid #8c5f0d;
+}
+.bgContainer { 
+background-image: url("http://ro24.triburile.ro/graphic/index/main_bg.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.map_container { 
+background-color: #f4e4bc !important;
+border: 1px solid #8c5f0d;
+direction: ltr;
+}
+.minimap_container .dir_arrow { 
+cursor: pointer;
+}
+#info_bonus_image { 
+background-image: url("http://ro24.triburile.ro/graphic/background/content.jpg");
+}
+.center { 
+text-align: center;
+}
+.lit .lit-item { 
+font-weight: 700;
+background-color: #fff3d3 !important;
+background-image: none;
+}
+.lit2 .lit-item { 
+font-weight: 700;
+background-color: #f8eed8;
+background-image: none;
+}
+.nopad { 
+padding: 0px !important;
+}
+.top_background { 
+background-image: url("http://ro24.triburile.ro/graphic/index/bg-top.jpg");
+background-repeat: repeat-x;
+height: 27px;
+width: 100%;
+position: absolute;
+top: 0px;
+z-index: -1;
+display: none;
+}
+.top_bar { 
+background-image: url("/graphic/bara/topbar-main.png");
+background-repeat: repeat-x;
+background-position: 50% 0px;
+height: 57px;
+width: 100%;
+position: fixed;
+top: 0px;
+left: 0px;
+z-index: 9999;
+}
+.top_bar .bg_left { 
+background-image: url("/graphic/bara/topbar-left.png");
+background-repeat: no-repeat;
+height: 57px;
+width: 70px;
+position: absolute;
+top: 0px;
+left: 0px;
+z-index: -1;
+}
+.top_bar .bg_right { 
+background-image: url("/graphic/bara/topbar-right.png");
+background-repeat: no-repeat;
+height: 57px;
+width: 70px;
+position: absolute;
+top: 0px;
+right: 0px;
+z-index: -1;
+}
+.top_shadow { 
+background-image: url("http://ro24.triburile.ro/graphic/index/topbar-shadow.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+position: fixed;
+margin-bottom: -3px;
+padding: 0px;
+top: 50px;
+left: 0px;
+width: 100%;
+height: 6px;
+z-index: 9999;
+}
+body { 
+background-image: url("http://ro24.triburile.ro/graphic/background/bg-tile.jpg");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0px 0px;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #d2c09e;
+font-size: 7pt;
+font-family: "Verdana", "Arial";
+width: 100%;
+margin: 0px;
+padding: 0px 0px 35px;
+}
+.noBorderForFirstItem li:first-child { 
+border: none;
+}
+h1 { 
+font-size: 16pt;
+}
+h2 { 
+font-size: 14pt;
+}
+h3 { 
+font-weight: 700;
+font-size: 12pt;
+}
+h4 { 
+font-style: italic;
+font-weight: 700;
+font-size: 10pt;
+margin-bottom: 4pt;
+}
+h5 { 
+font-weight: 700;
+font-size: 10pt;
+margin-bottom: 2pt;
+}
+img { 
+border: none;
+}
+.middle { 
+vertical-align: middle;
+}
+.status-icon { 
+width: 10px;
+height: 10px;
+}
+.grey { 
+color: #808080;
+}
+.warn { 
+color: #dc0000;
+}
+.error { 
+color: #b40000;
+font-weight: 700;
+}
+.nowrap { 
+white-space: nowrap;
+}
+.wrap { 
+white-space: normal;
+}
+.small { 
+font-size: xx-small;
+}
+.inactive, .inactive:hover { 
+color: #c5a76b;
+}
+#buildings .inactive { 
+white-space: normal;
+}
+hr { 
+border-top: 1px solid #c89d58;
+border-right: 0px solid transparent;
+border-bottom: 1px solid #85550d;
+border-left: 0px solid transparent;
+height: 0px;
+}
+.box { 
+background-color: #f7eed3;
+background-repeat: repeat-x;
+border-top: 1px solid #997733;
+border-right: 1px solid #ffdd99;
+border-bottom: 1px solid #ffeecc;
+border-left: 1px solid #bb9955;
+}
+input, select { 
+font-size: 8pt;
+}
+.attack { 
+background-color: #fad2d2;
+}
+.support { 
+background-color: #d2fad2;
+}
+.check { 
+margin: 0px 5px 0px 0px;
+}
+.quote .quote_author { 
+font-weight: 700;
+font-size: 8pt;
+}
+.quote .quote_message { 
+background-color: #ffffff;
+font-size: 8pt;
+}
+textarea { 
+border: 1px solid #7d510f;
+padding: 4px;
+}
+.post { 
+border: 2px solid #804000;
+background-color: #fff8e6;
+padding: 0px;
+margin-bottom: 5px;
+}
+.igmline { 
+background-color: #efe6c9;
+padding-left: 4px;
+border-bottom: 1px solid #804000;
+position: relative;
+}
+.text { 
+padding: 6px;
+}
+.date { 
+font-size: x-small;
+right: 5px;
+position: absolute;
+}
+.right { 
+right: 5px;
+position: absolute;
+}
+#igm_groups { 
+position: absolute;
+z-index: 100;
+border: 2px solid #804000;
+background-color: #efe6c9;
+}
+#igm_groups .igm-group-item { 
+padding: 2px;
+}
+#bb_sizes { 
+position: absolute;
+z-index: 100;
+border: 2px solid #804000;
+background-color: #efe6c9;
+top: 0px;
+left: 0px;
+}
+#bb_sizes .bb_size_item { 
+padding: 2px;
+}
+#bb_color_picker { 
+position: absolute;
+z-index: 100;
+border: 2px solid #804000;
+background-color: #efe6c9;
+top: 0px;
+left: 0px;
+}
+#bb_color_picker_tones { 
+padding: 4px;
+border-bottom: 2px solid #804000;
+height: 86px;
+}
+#bb_color_picker_colors { 
+padding: 4px;
+border-bottom: 2px solid #804000;
+height: 18px;
+white-space: nowrap;
+}
+#bb_color_picker_colors div { 
+float: left;
+border-top: 1px solid #000000;
+border-left: 1px solid #000000;
+width: 16px;
+height: 16px;
+cursor: pointer;
+}
+#bb_color_picker_tones div { 
+float: left;
+border-top: 1px solid #000000;
+border-left: 1px solid #000000;
+width: 16px;
+height: 16px;
+cursor: pointer;
+}
+#bb_color_picker_50, #bb_color_picker_51, #bb_color_picker_52, #bb_color_picker_53, #bb_color_picker_54, #bb_color_picker_55 { 
+border-bottom: 1px solid #000000;
+}
+#bb_color_picker_55, #bb_color_picker_45, #bb_color_picker_35, #bb_color_picker_25, #bb_color_picker_15, #bb_color_picker_05 { 
+border-right: 1px solid #000000;
+}
+#bb_color_picker_c0, #bb_color_picker_c1, #bb_color_picker_c2, #bb_color_picker_c3, #bb_color_picker_c4, #bb_color_picker_c5 { 
+border-bottom: 1px solid #000000;
+}
+#bb_color_picker_c5 { 
+border-right: 1px solid #000000;
+}
+#bb_color_picker_preview { 
+margin: 2px;
+border: 1px solid #000000;
+height: 16px;
+width: 104px;
+background-image: none;
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #f7eed3;
+text-align: center;
+}
+#bb_color_picker_tx { 
+width: 64px;
+}
+#bb_color_picker_ok { }
+#igm_to { 
+position: absolute;
+z-index: 1;
+border: 2px solid #804000;
+background-color: #ded3b9;
+}
+#igm_to_content { 
+background-color: #efe6c9;
+height: 250px;
+width: 200px;
+overflow-x: auto;
+overflow-y: auto;
+}
+#box { 
+color: #000000;
+background-color: #f8f4e8;
+width: 100%;
+max-height: 200px;
+text-align: left;
+padding: 0px;
+overflow-x: auto;
+overflow-y: auto;
+position: relative;
+}
+#inline_popup { 
+border-top: 2px solid #804000;
+border-right: 2px solid #603000;
+border-bottom: 2px solid #402000;
+border-left: 2px solid #804000;
+background-image: url("http://ro24.triburile.ro/graphic/index/main_bg.jpg");
+position: absolute;
+display: none;
+width: 298px;
+z-index: 5;
+}
+#inline_popup_menu { 
+background-color: #c1a264;
+background-image: url("http://ro24.triburile.ro/graphic/screen/tableheader_bg3.png");
+background-repeat: repeat-x;
+width: auto;
+padding: 2px 5px;
+text-align: right;
+cursor: move;
+}
+#inline_popup_main { 
+overflow-x: auto;
+overflow-y: auto;
+height: 300px;
+background-image: url("http://ro24.triburile.ro/graphic/index/main_bg.jpg");
+padding: 3px;
+}
+ul.help { 
+padding-left: 1px;
+margin-left: 0px;
+}
+li.help { 
+list-style-type: none;
+background-color: #f4e4bc;
+margin: 2px;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 8px;
+}
+ul.help li.help ul.help li.help { 
+background-color: #f1ebdd;
+}
+ul.help li.help ul.help li.help ul.help li.help { 
+background-color: #f8f4e8;
+}
+ul.submenu { 
+padding-left: 1px;
+margin-left: 0px;
+}
+li.submenu { 
+list-style-type: none;
+margin: 2px;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 8px;
+}
+.sel { 
+color: #0082be;
+text-decoration: underline;
+}
+.bonus_icon { 
+background-image: url("http://ro24.triburile.ro/graphic/overview/bonus_icons.png?1");
+width: 14px;
+height: 14px;
+display: inline-block;
+margin-left: 2px;
+}
+.bonus_icon_1 { 
+background-position: 0px 0px;
+}
+.bonus_icon_2 { 
+background-position: 0px 112px;
+}
+.bonus_icon_3 { 
+background-position: 0px 98px;
+}
+.bonus_icon_4 { 
+background-position: 0px 28px;
+}
+.bonus_icon_5 { 
+background-position: 0px 70px;
+}
+.bonus_icon_6 { 
+background-position: 0px 56px;
+}
+.bonus_icon_7 { 
+background-position: 0px 42px;
+}
+.bonus_icon_8 { 
+background-position: 0px 84px;
+}
+.bonus_icon_9 { 
+background-position: 0px 14px;
+}
+.server_info { 
+font-size: 7pt;
+margin-top: 0px;
+margin-bottom: 0px;
+text-align: right;
+color: #514d41;
+padding: 0px 2px;
+background-image: url("http://ro24.triburile.ro/graphic/index/contentbg.png");
+background-attachment: scroll;
+background-repeat: repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+.hide_toggle { 
+display: none;
+margin-left: -1px;
+}
+.show_toggle { 
+display: inline;
+}
+.premium_button { 
+width: 32px;
+height: 55px;
+background-image: url("http://ro24.triburile.ro/graphic/premium/pa_button.png");
+background-repeat: no-repeat;
+cursor: pointer;
+}
+.premium_left_button { 
+background-position: 0px 0px;
+}
+.premium_left_button_hover { 
+background-position: 0px -55px;
+}
+.premium_right_button { 
+background-position: -32px 0px;
+}
+.premium_right_button_hover { 
+background-position: -32px -55px;
+}
+#premium_buy_button { 
+width: 140px;
+height: 75px;
+background-image: url("http://ro24.triburile.ro/graphic/premium/buynow.jpg");
+float: left;
+font-size: 20px;
+color: #ffffff;
+text-align: center;
+line-height: 75px;
+}
+#premium_buy_button:hover { 
+background-position: 0px -75px;
+}
+.map_container * { 
+direction: ltr;
+}
+#reservations { 
+width: 100%;
+clear: both;
+}
+#settings { 
+padding-bottom: 3px;
+padding-left: 10px;
+float: left;
+}
+#edit_reservation { 
+display: block;
+}
+#reservation_settings { 
+display: block;
+}
+#reservation_info { 
+padding-left: 10px;
+}
+#change_settings { 
+display: none;
+}
+div.award { 
+border: 1px solid #af8e36;
+}
+.award { 
+width: 60px;
+}
+.award.level0 { 
+background-image: url("http://ro24.triburile.ro/graphic/awards/frame0.png");
+}
+.award.level1 { 
+background-image: url("http://ro24.triburile.ro/graphic/awards/frame1.png");
+}
+.award.level2 { 
+background-image: url("http://ro24.triburile.ro/graphic/awards/frame2.png");
+}
+.award.level3 { 
+background-image: url("http://ro24.triburile.ro/graphic/awards/frame3.png");
+}
+.award.level4 { 
+background-image: url("http://ro24.triburile.ro/graphic/awards/frame4.png");
+}
+.award img { 
+margin: 7px;
+}
+.awardmini { 
+border: 1px solid #af8e36;
+width: 16px;
+float: left;
+margin: 2px;
+}
+.awardmini.level1 { 
+background-image: url("http://ro24.triburile.ro/graphic/awards/frame1_mini.png");
+}
+.awardmini.level2 { 
+background-image: url("http://ro24.triburile.ro/graphic/awards/frame2_mini.png");
+}
+.awardmini.level3 { 
+background-image: url("http://ro24.triburile.ro/graphic/awards/frame3_mini.png");
+}
+.awardmini.level4 { 
+background-image: url("http://ro24.triburile.ro/graphic/awards/frame4_mini.png");
+}
+.awardmini img { 
+margin: 2px;
+}
+.group_config { 
+position: relative;
+width: 97%;
+margin-right: auto;
+margin-left: auto;
+border: 1px solid #804000;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+}
+.vis .group_edit { 
+background-color: transparent;
+}
+.vis .group_label { 
+width: 170px;
+height: 25px;
+}
+.vis #group_list td { 
+height: 20px;
+}
+.vis .p_groups { 
+margin: 0px;
+display: inline;
+}
+.popup_style { 
+position: absolute;
+border-top: 2px solid #804000;
+border-right: 2px solid #603000;
+border-bottom: 2px solid #402000;
+border-left: 2px solid #804000;
+background-image: url("http://ro24.triburile.ro/graphic/index/main_bg.jpg");
+display: none;
+z-index: 99999;
+}
+.popup_menu { 
+background-color: #c1a264;
+background-image: url("http://ro24.triburile.ro/graphic/screen/tableheader_bg3.png");
+background-repeat: repeat-x;
+border: none;
+width: auto;
+text-align: right;
+padding: 2px 5px;
+cursor: move;
+}
+.popup_content { 
+width: auto;
+background-image: url("http://ro24.triburile.ro/graphic/index/main_bg.jpg");
+padding: 10px 5px 0px;
+}
+#tooltip .body { 
+font-weight: 700;
+}
+#tut.ui-draggable #tut_menu { 
+cursor: move;
+}
+#combined_table th { 
+text-align: center;
+}
+#wait { 
+position: absolute;
+top: 48%;
+left: 50%;
+width: 200px;
+background-image: url("http://ro24.triburile.ro/graphic/index/main_bg.jpg");
+border: 2px solid #804000;
+margin: -15px 0px 0px -110px;
+padding: 10px;
+text-align: center;
+font-weight: 700;
+}
+#ajax_loader { 
+position: absolute;
+top: 100px;
+left: 375px;
+z-index: 100;
+display: table-cell;
+}
+#worldmap_border { 
+border: 2px solid #804000;
+background-color: #f1ebdd;
+background-image: url("http://ro24.triburile.ro/graphic/background/content.jpg");
+}
+#worldmap_margin { 
+height: 35px;
+}
+#worldmap fieldset { 
+border: none;
+margin: 0px;
+display: inline;
+}
+#worldmap_body, #worldmap_footer { 
+text-align: center;
+}
+#intro_igm_preview { 
+background-color: #ffffff;
+border: 1px solid #000000;
+width: 99%;
+margin: 10px;
+}
+.edit { 
+display: none;
+}
+.green { 
+color: #008000;
+}
+.orange { 
+color: #ffa500;
+}
+.red { 
+color: #ff0000;
+}
+.scrollableMenu .main_layout .topbar { 
+position: relative;
+}
+.scrollableMenu #topContainer { 
+position: absolute;
+z-index: 10000;
+}
+.scrollableMenu .top_bar { 
+position: absolute;
+}
+.scrollableMenu .top_shadow { 
+position: absolute;
+}
+#coin_overview_table .select_coins { 
+width: 160px;
+}
+* + html #main_layout .topbar { 
+position: fixed !important;
+}
+* + html #main_layout .shadedBG { 
+background-image: url("http://ro24.triburile.ro/graphic/index/bg-shaded.png");
+background-attachment: scroll;
+background-repeat: repeat-x;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: #f2e4c1;
+}
+* + html #main_layout .bg_left .bg_left { 
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-left-top.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+* + html #main_layout .bg_right .bg_right { 
+background-image: url("http://ro24.triburile.ro/graphic/index/mainborder-right-top.png");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: auto;
+background-origin: padding-box;
+background-clip: border-box;
+background-color: transparent;
+}
+* + html #main_layout .center { 
+position: static;
+}
+* + html #topContainer { 
+position: absolute !important;
+margin-top: 0px !important;
+width: 100% !important;
+z-index: 123456;
+}
+* + html .top_bar { 
+position: absolute;
+}
+* + html .top_shadow { 
+position: absolute;
+}
+* + html #menu_row > .lpad { 
+width: 1px;
+}
+* + html #menu_row > .rpad { 
+width: 3px;
+}
+* + html #menu_row > .menu-item a { 
+white-space: nowrap;
+padding-right: 20px;
+padding-left: 20px;
+}
+* + html hr { 
+height: 2px;
+}
+* + html #SkyScraperAd { 
+position: absolute;
+}
+* + html .topbar .buttonicon { 
+top: -29px;
+}
+* + html #group_list_content #group_table { 
+width: 292px;
+}
+* + html #group_popup_content_container #group_table { 
+width: 292px;
+}
+.icon { 
+width: 18px;
+height: 18px;
+display: inline-block;
+margin: auto 2px auto 0px;
+overflow-x: hidden;
+overflow-y: hidden;
+background-repeat: no-repeat;
+vertical-align: -4px;
+}
+body:empty .icon { 
+display: block;
+}
+td .icon-box { 
+width: 20px;
+height: 20px;
+text-align: center;
+vertical-align: middle;
+overflow-x: hidden;
+overflow-y: hidden;
+}
+.icon.header { 
+background-image: url("http://ro24.triburile.ro/graphic/icons/header.png");
+}
+.header.wood { 
+background-position: -17px 0px;
+}
+.header.stone { 
+background-position: -36px 0px;
+}
+.header.iron { 
+background-position: -55px 0px;
+}
+.header.ressources { 
+background-position: 0px 0px;
+}
+.header.population { 
+background-position: -72px 0px;
+}
+.header.new_post { 
+background-position: -92px -2px;
+width: 13px;
+height: 13px;
+}
+.header.new_report { 
+background-position: -149px -3px;
+width: 17px;
+height: 12px;
+}
+.header.new_mail { 
+background-position: -132px -20px;
+width: 17px;
+height: 12px;
+}
+.header.knight { 
+background-position: -179px 0px;
+}
+.header.incomings { 
+background-position: -198px 1px;
+}
+.header.arr_right { 
+background-position: -118px -0.4px;
+height: 15px;
+width: 15px;
+}
+.header.arr_left { 
+background-position: -105px -0.4px;
+height: 15px;
+width: 15px;
+}
+.header.arr_down { 
+background-position: -166px -1px;
+width: 14px;
+height: 15px;
+}
+.header.arr_up { 
+background-position: -218px -1px;
+width: 14px;
+height: 15px;
+}
+.icon.ally { 
+background-image: url("http://ro24.triburile.ro/graphic/icons/ally_rights.png");
+}
+.ally.founder { 
+background-position: -75px 0px;
+}
+.ally.lead { 
+background-position: -132px 0px;
+}
+.ally.invite { 
+background-position: -113px 0px;
+}
+.ally.diplomacy { 
+background-position: -37px 0px;
+}
+.ally.mass_mail { 
+background-position: 0px 0px;
+}
+.ally.forum_mod { 
+background-position: -56px 0px;
+}
+.ally.internal_forum { 
+background-position: -94px 0px;
+}
+.ally.trusted_member { 
+background-position: -18px 0px;
+}
+#tooltip { 
+position: absolute;
+min-width: 75px;
+max-width: 300px;
+z-index: 30000;
+border: 2px solid #804000;
+background-color: #f1ebdd;
+background-image: url("http://ro24.triburile.ro/graphic/background/content.jpg");
+padding: 7px;
+opacity: 1;
+}
+#tooltip h3, #tooltip div { 
+margin: 0px;
+}
+#tooltip h3 { 
+font-size: 12px;
+padding-bottom: 2px;
+}
+
+.empty{ position:absolute; z-index:4; left:0px; top:0px; width:600px; height:418px;}
+
+.p_main,.cons_main{ position:absolute; z-index:2; left:291px; top:107px; }
+.p_main_flag{ position:absolute; z-index:2; left:291px; top:67px; }
+.p_place,.cons_place{ position:absolute; z-index:2; left:319px; top:208px; }
+.p_wood,.cons_wood{ position:absolute; z-index:2; left:480px; top:332px; }
+.p_stone,.cons_stone{ position:absolute; z-index:2; left:8px; top:305px; }
+.p_iron,.cons_iron{ position:absolute; z-index:2; left:10px; top:9px; }
+.p_statue,.cons_statue{ position:absolute; z-index:2; left:257px; top:230px; }
+.p_wall,.cons_wall{ position:absolute; z-index:1; left:13px; top:2px; }
+.p_farm,.cons_farm{ position:absolute; z-index:1; left:450px; top:0px; }
+.p_farm_field{ position:absolute; z-index:2; right:0; top:106px; }
+.p_hide,.cons_hide{ position:absolute; z-index:2; left:245px; top:69px; }
+.p_storage{ position:absolute; z-index:2; left:105px; top:125px; }
+.p_market,.cons_market{ position:absolute; z-index:2; left:211px; top:127px; }
+.p_barracks,.cons_barracks{ position:absolute; z-index:2; left:386px; top:216px; }
+.p_stable,.cons_stable{ position:absolute; z-index:2; left:65px; top:207px; }
+.p_garage,.cons_garage{ position:absolute; z-index:2; left:287px; top:280px; }
+.p_church,.cons_church{ position:absolute; z-index:2; left:391px; top:99px; }
+.p_church_f,.cons_church_f{ position:absolute; z-index:2; left:390px; top:99px; }
+.p_snob,.cons_snob{ position:absolute; z-index:2; left:159px; top:63px; }
+.p_smith,.cons_smith{ position:absolute; z-index:2; left:185px; top:269px; }
+
+/* NPCs */
+.npc_conversation{ position:absolute; z-index:2; left:222px; top:245px; }
+.npc_guard{ position:absolute; z-index:2; left:177px; top:192px;}
+.npc_juggler{ position:absolute; z-index:2; left:210px; top:225px;}
+.npc_farmer{ position:absolute; z-index:2; left:558px; top:66px;}
+.smith_anim{ position:absolute; z-index:3; left:174px; top:322px;}
+
+/* xmas-tree */
+.christmas_tree{ position:absolute; z-index:2; left:499px; top:188px; }
+
+/* Label(Stufenanzeigen) für fest positionierte Gebaeude */
+.l_main{  position:absolute; display:none; z-index:3; left:310px; top:55px; }
+.l_place{ position:absolute; display:none; z-index:3; left:354px; top:188px; }
+.l_wood{  position:absolute; display:none; z-index:3; left:550px; top:323px; }
+.l_stone{ position:absolute; display:none; z-index:3; left:100px; top:395px; }
+.l_iron{  position:absolute; display:none; z-index:3; left:29px; top:0px; }
+.l_statue{position:absolute; display:none; z-index:3; left:245px; top:215px; }
+.l_wall{  position:absolute; display:none; z-index:3; left:440px; top:316px; }
+.l_farm{  position:absolute; display:none; z-index:3; left:450px; top:0px; }
+.l_hide{  position:absolute; display:none; z-index:3; left:245px; top:48px; }
+.l_storage{ position:absolute; display:none; z-index:3; left:100px; top:120px; }
+.l_market{ position:absolute; display:none; z-index:3; left:260px; top:117px; }
+.l_barracks{ position:absolute; display:none; z-index:3; left:482px; top:227px; }
+.l_stable{ position:absolute; display:none; z-index:3; left:65px; top:196px; }
+.l_garage{ position:absolute; display:none; z-index:3; left:370px; top:340px; }
+.l_church{ position:absolute; display:none; z-index:3; left:480px; top:150px; }
+.l_church_f{ position:absolute; display:none; z-index:3; left:480px; top:150px; }
+.l_snob{ position:absolute; display:none; z-index:3; left:168px; top:63px; }
+.l_smith{ position:absolute; display:none; z-index:3; left:205px; top:258px; }
+
+div.label { background-color: #598146; padding: 1px; border: 1px black solid; min-width:20px; color: white}
+div.label_night { background-color: #202060; padding: 1px; border: 1px black solid; min-width:20px; color:white}
+div.label a:link	{ color:#DDDDDD }
+div.label a:visited	{  color:#DDDDDD }
+div.label a:active	{  color:#DDDDDD }
+div.label a:hover	{ color:white }
+
+div.label_night a:link { color:#CCCCCC}
+div.label_night a:visited { color:#CCCCCC}
+div.label_night a:active { color:#CCCCCC}
+div.label_night a:hover { color:white}
+div.label img { display:none; }
+div.label_night img { display:none; }
+

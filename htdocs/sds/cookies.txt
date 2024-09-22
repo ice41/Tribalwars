@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+support.innogames.de	TRUE	/	FALSE	1999999999	PHPSESSID	hb3v8h5072qpopssp0n4c9agm2
+

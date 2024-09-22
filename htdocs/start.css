@@ -1,0 +1,16 @@
+#login-btn-input{
+				display:block;
+				line-height:22px;
+				height:26px;
+				width:106px;
+				padding:0;
+				margin:0;
+				border:0;
+				overflow:hidden;
+				background:url(http://www.die-staemme.de/graphic/lang/de/login.png) no-repeat 0 0;
+				float:right;
+			}
+			#login-btn-input.login-btn-input-hover{
+				width:106px;
+				background:url(http://www.die-staemme.de/graphic/lang/de/login.png) no-repeat -106px 0;
+			}

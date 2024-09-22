@@ -1,0 +1,1 @@
+Trupele tale au fost &#238;n <a href="game.php?village={$village.id}&amp;screen=info_village&amp;id={$report.to_village}">{$report.to_villagename} ({$report.to_x}|{$report.to_y})</a> pentru a face o vizit&#259;.
