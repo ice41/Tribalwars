@@ -3,7 +3,7 @@
 <head>
 	<title>A - 001 Bartekbu123 (789|437) - Tribos - Arcádia</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	<link id="favicon" rel="shortcut icon"  href="http://plemiona.pl/favicon.ico" />
+	<link id="favicon" rel="shortcut icon"  href="\graphic/favicon.ico" />
 
 	<link rel="stylesheet" type="text/css" href="http://plemiona.pl/merged/game.css?1382691248" />
 
@@ -33,7 +33,7 @@
 	<script type="text/javascript">
         //<![CDATA[
         var sds = false;
-		var image_base = "https://www.tribalwars.net/graphic/";
+		var image_base = "/graphic/";
 		var mobile = false;
 		var mobile_on_normal = false;
 		var premium = false;
@@ -123,8 +123,8 @@
 										<td class="menu-item"><a href="/game.php?village=175833&amp;screen=mail"><span id="new_mail" class="icon header new_mail" style="display: none" title="nova mensagem"></span> Mensagens</a><table cellspacing="0" class="menu_column"><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=in&amp;screen=mail">Mensagens</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=mass_out&amp;screen=mail">mensagem em massa</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=new&amp;screen=mail">Escreve uma mensagem</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=block&amp;screen=settings">Bloqueie o remetente</a></td></tr><tr><td class="bottom"><div class="corner"></div><div class="decoration"></div></td></tr></table></td>
 										<td class="menu-item"><a href="/game.php?village=175833&amp;screen=ally">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tribo</a><div class="buttonicon"><a href="/game.php?village=175833&amp;mode=forum&amp;screen=ally"  style="display:inline"><span id="tribe_forum_indicator" class="icon header no_new_post" title="Na forum plemiennym nie ma nowych postów"></span></a></div><table cellspacing="0" class="menu_column"><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=overview&amp;screen=ally">visão global</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=Perfile&amp;screen=ally">Perfil</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=members&amp;screen=ally">Membros</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=contracts&amp;screen=ally">Diplomacia</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=tribalwars&amp;screen=ally">Guerras</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=reservations&amp;screen=ally">Planejador de conquista</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=invite&amp;screen=ally">Recrutamento</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=intro_igm&amp;screen=ally">Bem-vindo</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=properties&amp;screen=ally">Propriedades</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=forum&amp;screen=ally">Forum</a></td></tr><tr><td class="bottom"><div class="corner"></div><div class="decoration"></div></td></tr></table></td>
 																					<td>
-																									<a class="manager_icon" style="background-image:url('https://www.tribalwars.net/8.16/18844/graphic/icons/farm_assistent.png?e5a99')" href="/game.php?village=175833&amp;screen=am_farm" title="Asystent Farmera">&nbsp;</a>
-																																					<a class="manager_icon" style="background-image:url('https://www.tribalwars.net/8.16/18844/graphic/icons/account_manager.png?ae0c3')" href="/game.php?village=175833&amp;screen=accountmanager" title="Menedżer Konta">&nbsp;</a>
+																									<a class="manager_icon" style="background-image:url('/ds_graphic/icons/farm_assistent.png?e5a99')" href="/game.php?village=175833&amp;screen=am_farm" title="Asystent Farmera">&nbsp;</a>
+																																					<a class="manager_icon" style="background-image:url('/ds_graphic/icons/account_manager.png?ae0c3')" href="/game.php?village=175833&amp;screen=accountmanager" title="Menedżer Konta">&nbsp;</a>
 																							</td>
 																				<td class="menu-item lpad"> </td>
 																				<td class="menu-item" id="topdisplay">
@@ -139,7 +139,7 @@
 										<td class="menu-item"><a href="/game.php?village=175833&amp;screen=premium"><span class="coinbag coinbag-header"></span>&nbsp;Premium</a><table cellspacing="0" class="menu_column"><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=use&amp;screen=premium">Assinaturas</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=premium&amp;screen=premium">Comprar</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=transfer&amp;screen=premium">Transferir</a></td></tr><tr><td class="menu-column-item"><a href="/game.php?village=175833&amp;mode=log&amp;screen=premium">Registro</a></td></tr><tr><td class="bottom"><div class="corner"></div><div class="decoration"></div></td></tr></table></td>
 										<td class="menu-item"><a href="/game.php?village=175833&amp;screen=memo">Notas</a></td>
 										<td class="menu-item"><a href="/game.php?village=175833&amp;action=logout&amp;h=53f6&amp;screen=" target="_top">Wyloguj</a></td>
-										<td class="menu-side"><img src="https://www.tribalwars.net/8.16/18844/graphic/loading.gif?4c84a" id="loading_content" style="display: none" alt="" /></td>
+										<td class="menu-side"><img src="/graphic/loading.gif?4c84a" id="loading_content" style="display: none" alt="" /></td>
 									</tr>
 								</table>
 							</td>
@@ -321,13 +321,13 @@
 									<tr>
 	
 										<td id="incomings_cell" style="text-align: center; padding: 0 4px" class="box-item firstcell nowrap">
-																						<img src="https://www.tribalwars.net/8.16/18844/graphic/unit/att.png?1bdd4" title="Nadchodzące ataki" style="vertical-align: -2px" alt="" /> 
+																						<img src="/ds_graphic/unit/att.png?1bdd4" title="Nadchodzące ataki" style="vertical-align: -2px" alt="" /> 
 											<span id="incomings_amount">0</span>
 																					</td>
 
 										<td id="supports_cell" style="text-align: center; padding: 0 4px" class="box-item separate nowrap">
 											<a href="">
-												<img src="https://www.tribalwars.net/8.16/18844/graphic/command/support.png?fbeca" title="Nadciągające wsparcie" style="vertical-align: -2px" alt="" /> 
+												<img src="/ds_graphic/command/support.png?fbeca" title="Nadciągające wsparcie" style="vertical-align: -2px" alt="" /> 
 												<span id="supports_amount"></span>
 											</a>
 										</td>
@@ -384,8 +384,8 @@
 	TWMap.con.SEC_COUNT = 20;
 	TWMap.con.SUB_COUNT = 5;
 
-	TWMap.image_base = 'https://www.tribalwars.net/8.16/18844/graphic/';
-	TWMap.graphics = 'https://www.tribalwars.net/8.16/18844/graphic//map/';
+	TWMap.image_base = '/graphic/';
+	TWMap.graphics = '/graphic/map/';
 
 			TWMap.currentVillage = 175833;
 		TWMap.cachePopupContents = true;
@@ -476,7 +476,7 @@
 			<input type="hidden" name="min_y" value="0" />
 		</div>
 
-		<img src="https://www.tribalwars.net/8.16/18844/graphic/throbber.gif?3286b" id="worldmap-throbber" alt="Loading..." style="display:none" />
+		<img src="/ds_graphic/throbber.gif?3286b" id="worldmap-throbber" alt="Loading..." style="display:none" />
 
 		<div id="worldmap_body">
 			<div id="worldmap_image">
@@ -522,14 +522,14 @@
 			<td></td>
 
 			<td align="center" onclick="TWMap.scrollBlock(0, -1); return false;" class="map_navigation" style="padding-left:26px;">
-				<img src="https://www.tribalwars.net/8.16/18844/graphic/map/map_n.png?1536a" alt="map/map_n.png" style="z-index:1; position:relative;" />
+				<img src="/graphic/map/map_n.png?1536a" alt="map/map_n.png" style="z-index:1; position:relative;" />
 			</td>
 
 			<td></td>
 		</tr>
 		<tr>
 			<td align="center" onclick="TWMap.scrollBlock(-1, 0); return false;" class="map_navigation" style="padding-bottom:22px;">
-				<img src="https://www.tribalwars.net/8.16/18844/graphic/map/map_w.png?d2d62" alt="map/map_w.png" style="z-index:1; position:relative;" />
+				<img src="/graphic/map/map_w.png?d2d62" alt="map/map_w.png" style="z-index:1; position:relative;" />
 			</td>
 
 			<td>
@@ -543,7 +543,7 @@
 
 					<td>
 						<div id="map_wrap" style="position:relative;">
-							<img src="https://www.tribalwars.net/8.16/18844/graphic/fullscreen.png?cbd22" id="fullscreen" onclick="TWMap.goFullscreen()" alt="" />
+							<img src="/graphic/fullscreen.png?cbd22" id="fullscreen" onclick="TWMap.goFullscreen()" alt="" />
 							<a class="mp" id="mp_res" title="Enviar recursos" href="/game.php?screen=map"></a>
 							<a class="mp" id="mp_att" title="Enviar tropas" href="/game.php?screen=map"></a>
 							<a class="mp" id="mp_lock" title="Reservar a aldeia" href="/game.php?screen=map"></a>
@@ -579,7 +579,7 @@
 			</td>
 
 			<td align="center" onclick="TWMap.scrollBlock(1, 0); return false;" class="map_navigation" style="padding-bottom:22px;">
-				<img src="https://www.tribalwars.net/8.16/18844/graphic/map/map_e.png?48510" alt="map/map_e.png" style="z-index:1; position:relative;" />
+				<img src="/graphic/map/map_e.png?48510" alt="map/map_e.png" style="z-index:1; position:relative;" />
 			</td>
 		</tr>
 
@@ -588,7 +588,7 @@
 			<td></td>
 
 			<td align="center" onclick="TWMap.scrollBlock(0, 1); return false;" class="map_navigation" style="padding-left:26px;">
-				<img src="https://www.tribalwars.net/8.16/18844/graphic/map/map_s.png?d721d" alt="map/map_s.png" style="z-index:1; position:relative;" />
+				<img src="/graphic/map/map_s.png?d721d" alt="map/map_s.png" style="z-index:1; position:relative;" />
 			</td>
 
 			<td></td>
@@ -887,9 +887,9 @@ $(document).ready(function() {
 	<tr>
 		<td>Último ataque:</td>
 		<td id="info_last_attack">
-			<img src="https://www.tribalwars.net/8.16/18844/graphic/<%= TWMap.popup.attackDots[extra.attack.dot]%>" title="" alt="" class="" />
+			<img src="/graphic/<%= TWMap.popup.attackDots[extra.attack.dot]%>" title="" alt="" class="" />
 			<% if (extra.attack.dot != 4) { %>
-				<img src="https://www.tribalwars.net/8.16/18844/graphic/<%= TWMap.popup.attackMaxLoot[extra.attack.max_loot]%>" title="" alt="" class="" />
+				<img src="/graphic/<%= TWMap.popup.attackMaxLoot[extra.attack.max_loot]%>" title="" alt="" class="" />
 			<% } %>
 
 			<%= extra.attack.time %>
@@ -900,9 +900,9 @@ $(document).ready(function() {
 	<tr>
 		<td>Últimos dados:</td>
 		<td id="info_last_attack_intel">
-			<img src="https://www.tribalwars.net/8.16/18844/graphic/<%= TWMap.popup.attackDots[extra.attack_intel.dot]%>" title="" alt="" class="" />
+			<img src="/graphic/<%= TWMap.popup.attackDots[extra.attack_intel.dot]%>" title="" alt="" class="" />
 			<% if (extra.attack_intel.dot != 4) { %>
-				<img src="https://www.tribalwars.net/8.16/18844/graphic/<%= TWMap.popup.attackMaxLoot[extra.attack_intel.max_loot]%>" title="" alt="" class="" />
+				<img src="/graphic/<%= TWMap.popup.attackMaxLoot[extra.attack_intel.max_loot]%>" title="" alt="" class="" />
 			<% } %>
 
 			<%= extra.attack_intel.time %>
@@ -941,16 +941,16 @@ $(document).ready(function() {
 			<table cellpadding="3" class="nowrap">
 				<tr>
 					<% if (extra.resources.wood) { %>
-						<td><img src="https://www.tribalwars.net/8.16/18844/graphic/holz.png?a3702" title="" alt="" class="" /> <%= extra.resources.wood %></td>
+						<td><img src="/graphic/holz.png?a3702" title="" alt="" class="" /> <%= extra.resources.wood %></td>
 					<% } %>
 					<% if (extra.resources.stone) { %>
-						<td><img src="https://www.tribalwars.net/8.16/18844/graphic/lehm.png?6c9bd" title="" alt="" class="" /> <%= extra.resources.stone %></td>
+						<td><img src="/graphic/lehm.png?6c9bd" title="" alt="" class="" /> <%= extra.resources.stone %></td>
 					<% } %>
 					<% if (extra.resources.iron) { %>
-						<td><img src="https://www.tribalwars.net/8.16/18844/graphic/eisen.png?0e9e5" title="" alt="" class="" /> <%= extra.resources.iron %></td>
+						<td><img src="/graphic/eisen.png?0e9e5" title="" alt="" class="" /> <%= extra.resources.iron %></td>
 					<% } %>
 					<% if (extra.resources.max) { %>
-						<td><img src="https://www.tribalwars.net/8.16/18844/graphic/res.png?0fdfc" title="" alt="" class="" /> <%= extra.resources.max %></td>
+						<td><img src="/graphic/res.png?0fdfc" title="" alt="" class="" /> <%= extra.resources.max %></td>
 					<% } %>
 				</tr>
 			</table>
@@ -971,13 +971,13 @@ $(document).ready(function() {
 		<% } %>
 
 		<% if (showPopulation) { %>
-			<img src="https://www.tribalwars.net/8.16/18844/graphic/face.png?203fc" title="" alt="" class="" /> <%= extra.population.current %>/<%= extra.population.max %>
+			<img src="/graphic/face.png?203fc" title="" alt="" class="" /> <%= extra.population.current %>/<%= extra.population.max %>
 		<% } %>
 
 		<% if (showPopulation && showTrader) { %> </td><td> <% } %>
 
 		<% if (showTrader) { %>
-			<img src="https://www.tribalwars.net/8.16/18844/graphic/overview/trader.png?4df99" title="" alt="" class="" /> <%= extra.trader.current %>/<%= extra.trader.total %>
+			<img src="/graphic/overview/trader.png?4df99" title="" alt="" class="" /> <%= extra.trader.current %>/<%= extra.trader.total %>
 		<% } %>
 		</td>
 	</tr>
@@ -992,7 +992,7 @@ $(document).ready(function() {
 				<tr class="center">
 					<% for (var i = 0; i < units.length; i++) { %>
 					<td style="padding:2px;background-color:#<%= bg_colors[i%2] %>">
-						<img src="https://www.tribalwars.net/8.16/18844/graphic/<%= units[i].image %>" title="" alt="" class="" />
+						<img src="/graphic/<%= units[i].image %>" title="" alt="" class="" />
 					</td>
 					<% } %>
 				</tr>
@@ -1028,7 +1028,7 @@ $(document).ready(function() {
 <% } /* end notes */ %>
 <% if (extra === false) { %>
 	<tr>
-		<td colspan="2"><table><tr><td><img src="https://www.tribalwars.net/8.16/18844/graphic/throbber.gif?3286b" title="" alt="" class="" /></td><td>Informações sobre carregamento...</td></tr></table></td>
+		<td colspan="2"><table><tr><td><img src="/graphic/throbber.gif?3286b" title="" alt="" class="" /></td><td>Informações sobre carregamento...</td></tr></table></td>
 	</tr>
 <% } %>
 
@@ -1128,9 +1128,9 @@ $(document).ready(function() {
 		<div id="footer">
 			<div id="linkContainer">
 								<a href="#" class="world_button_active evt-world-selection-toggle">Arcadia</a>
-								<a href="http://forum.plemiona.pl//index.php" class="footer-link" target="_blank">Fórum</a>
+								<a href="#" class="footer-link" target="_blank">Fórum</a>
 				&nbsp;-&nbsp;
-				<a href="http://help.plemiona.pl" class="footer-link" target="_blank">Suporte</a>
+				<a href="#" class="footer-link" target="_blank">Suporte</a>
 												&nbsp;-&nbsp;
 				<a href="/game.php?village=175833&amp;mode=ticket&amp;screen=settings" class="footer-link" target="_blank">Suporte</a>
 				&nbsp;-&nbsp;

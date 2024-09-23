@@ -94,7 +94,7 @@ $this->_tpl_vars['aktu_build_prc'] = $this->_tpl_vars['village'][$this->_tpl_var
 &amp;screen=<?php echo $this->_tpl_vars['dbname']; ?>
 &amp;action=cancel&amp;id=<?php echo $this->_tpl_vars['key']; ?>
 &amp;h=<?php echo $this->_tpl_vars['hkey']; ?>
-">Enviar tropas</a></td>
+">Cancelar</a></td>
 							</tr>
 						<?php endforeach; endif; unset($_from); ?>
 					</table>

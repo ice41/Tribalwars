@@ -22,8 +22,8 @@
 	TWMap.con.SEC_COUNT = 20;
 	TWMap.con.SUB_COUNT = 5;
 
-	TWMap.image_base = 'https://www.plemiona.pl/graphic/';
-	TWMap.graphics = 'https://www.plemiona.pl/graphic//map/';
+	TWMap.image_base = '/mundo1/graphic/';
+	TWMap.graphics = '/mundo1/graphic/map/';
 
 			TWMap.currentVillage = {$village.id};
 		TWMap.cachePopupContents = true;
@@ -119,7 +119,7 @@
 			<input type="hidden" name="min_y" value="0" />
 		</div>
 
-		<img src="https://www.plemiona.pl/graphic/throbber.gif?3286b" id="worldmap-throbber" alt="Loading..." style="display:none" />
+		<img src="/graphic/throbber.gif?3286b" id="worldmap-throbber" alt="Loading..." style="display:none" />
 
 		<div id="worldmap_body">
 			<div id="worldmap_image">
@@ -164,13 +164,13 @@
 		<tr>
 			<td></td>
 			<td align="center" onclick="TWMap.scrollBlock(0, -1); return false;" class="map_navigation">
-				<img src="https://www.plemiona.pl/graphic/map/map_n.png?1536a" alt="map/map_n.png" style="z-index:1; position:relative;" />
+				<img src="/graphic/map/map_n.png?1536a" alt="map/map_n.png" style="z-index:1; position:relative;" />
 			</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td align="center" onclick="TWMap.scrollBlock(-1, 0); return false;" class="map_navigation">
-				<img src="https://www.plemiona.pl/graphic/map/map_w.png?d2d62" alt="map/map_w.png" style="z-index:1; position:relative;" />
+				<img src="/graphic/map/map_w.png?d2d62" alt="map/map_w.png" style="z-index:1; position:relative;" />
 			</td>
 
 			<td style="padding: 0">
@@ -179,7 +179,7 @@
 						<div id="map_coord_y" style="position:absolute; left:0px; top:0px; height:38000px; overflow: visible;"></div>					</div>
 					<div id="map_coord_x_wrap" style="width:795px; ">
 						<div id="map_coord_x" style="position:absolute; left:0px; top:0px; width:53000px; overflow: visible;"></div>					</div>
-					<img src="https://www.plemiona.pl/graphic/fullscreen.png" id="fullscreen" onclick="TWMap.goFullscreen()" alt="" />
+					<img src="/graphic/fullscreen.png" id="fullscreen" onclick="TWMap.goFullscreen()" alt="" />
 					<a class="mp" id="mp_res" title="Envie Recursos" href="game.php?screen=map"></a>
 					<a class="mp" id="mp_att" title="Envie o tropas" href="game.php?screen=map"></a>
 					<a class="mp" id="mp_lock" title="Reserve a aldeia" href="game.php?screen=map"></a>
@@ -195,14 +195,14 @@
 										<a class="mp" id="mp_invite" title="Convidar jogador" href="game.php?screen=map"></a>
 					<a class="mp" id="mp_invite_hide" title="Ocultar dica de convite" href="game.php?screen=map"></a>
 
-										<a id="map" href="#" style="width:795px; height:570px;overflow:hidden;position:relative;background-image:url('https://www.plemiona.pl/graphic/map/gras4.png?e60df');">
+										<a id="map" href="#" style="width:795px; height:570px;overflow:hidden;position:relative;background-image:url('/graphic/map/gras4.png?e60df');">
 						<div id="map_blend" style="position:absolute; top:0px; left:0px; width:100%; height:100%; background-color:black; z-index: 20; opacity:0;  "></div>
 					</a>
 									</div>
 			</td>
 
 			<td align="center" onclick="TWMap.scrollBlock(1, 0); return false;" class="map_navigation">
-				<img src="https://www.plemiona.pl/graphic/map/map_e.png?48510" alt="map/map_e.png" style="z-index:1; position:relative;" />
+				<img src="/graphic/map/map_e.png?48510" alt="map/map_e.png" style="z-index:1; position:relative;" />
 			</td>
 		</tr>
 
@@ -211,7 +211,7 @@
 			<td></td>
 
 			<td align="center" onclick="TWMap.scrollBlock(0, 1); return false;" class="map_navigation">
-				<img src="https://www.plemiona.pl/graphic/map/map_s.png?d721d" alt="map/map_s.png" style="z-index:1; position:relative;" />
+				<img src="/graphic/map/map_s.png?d721d" alt="map/map_s.png" style="z-index:1; position:relative;" />
 			</td>
 
 			<td></td>
@@ -286,7 +286,7 @@ top:200px;
 width:290px; z-index:9999; display:none">
 	<div id="edit_color_popup_menu" class="popup_menu"><a id="tut_min" href="#" onclick="ColorGrocusto.own_villages_toggle(event);return false;">Zamknac</a></div>
 	
-	<div style="padding:10px;background-image:url('https://www.plemiona.pl/graphic//background/content.jpg')">
+	<div style="padding:10px;background-image:url('/graphic/background/content.jpg')">
 	 <strong>Wybierz grupe</strong><br /><br />
 	 <form method="post" action="game.php?village={$village.id}&amp;action=add_own_group&amp;h=b036&amp;screen=map">
 	 <select name="add_group">
@@ -313,7 +313,7 @@ width:290px; z-index:9999; display:none">
 		</a>
 	 </td>
 	 <td><input type="button" value="Editar" class="btn" onclick="ColorGrocusto.for_villages_toggle($(this), 9572, 'game.php?village={$village.id}&amp;ajaxaction=load_for_grocusto&amp;h=b036&amp;screen=map'); return false;"/></td>
-	 <td><a href="game.php?village={$village.id}&amp;action=del_group&amp;h=b036&amp;screen=map&amp;group_id=9572" ><img src="https://www.plemiona.pl/graphic/delete.png?78406" alt="Skasuj" /></a></td>
+	 <td><a href="game.php?village={$village.id}&amp;action=del_group&amp;h=b036&amp;screen=map&amp;group_id=9572" ><img src="/graphic/delete.png?78406" alt="Skasuj" /></a></td>
 	</tr>
 		<tr>
 	 <td><input checked="checked" type="checkbox" name="group_20388"/></td>
@@ -324,7 +324,7 @@ width:290px; z-index:9999; display:none">
 		</a>
 	 </td>
 	 <td><input type="button" value="Editar" class="btn" onclick="ColorGrocusto.for_villages_toggle($(this), 20388, 'game.php?village={$village.id}&amp;ajaxaction=load_for_grocusto&amp;h=b036&amp;screen=map'); return false;"/></td>
-	 <td><a href="game.php?village={$village.id}&amp;action=del_group&amp;h=b036&amp;screen=map&amp;group_id=20388" ><img src="https://www.plemiona.pl/graphic/delete.png?78406" alt="Skasuj" /></a></td>
+	 <td><a href="game.php?village={$village.id}&amp;action=del_group&amp;h=b036&amp;screen=map&amp;group_id=20388" ><img src="/graphic/delete.png?78406" alt="Skasuj" /></a></td>
 	</tr>
 		<tr id="new_group" style="display:none">
 	 <td colspan="5">
@@ -589,7 +589,7 @@ width:290px; z-index:9999; display:none">
 											</select>
 			</td>
 						<td valign="middle">
-				<img alt="" class="tooltip" src="http://cdn.tribalwars.net/graphic//questionmark.png" width="13" height="13" title="Mozesz dowolnie zmienic rozmiar mapy za pomoca myszki" />
+				<img alt="" class="tooltip" src="/graphic/questionmark.png" width="13" height="13" title="Mozesz dowolnie zmienic rozmiar mapy za pomoca myszki" />
 			</td>
 						</tr></table>
 			<input type="hidden" value="game.php?village={$village.id}&screen=settings&mode=settings&action=change_settings&h={$hkey}" id="change_map_size_link" />

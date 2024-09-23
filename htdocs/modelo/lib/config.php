@@ -46,18 +46,18 @@ $config['powitalna']['kolor'] = $config1['opcja3'];
 //Szybko�� serwera
 $config['speed'] = _NwSerWerSPEED;
 
-//Świat z wstępnymi funkcjami premium;
+//Um mundo com funcionalidades premium introdutórias;
 $config['premium'] = _NwSerWerPREMIUM;
-//Funkcje premium - dane
-//Numery
+//Recursos premium - dados
+//Números
 $config['kod']['1']['numer'] = 'XXXXX';
 $config['kod']['2']['numer'] = 'XXXXX';
 $config['kod']['3']['numer'] = 'XXXXX';
-//Treści
+//Contente
 $config['kod']['1']['tresc'] = 'XXXXXXX';
 $config['kod']['2']['tresc'] = 'XXXXXXX';
 $config['kod']['3']['tresc'] = 'XXXXXXX';
-//Koszty
+//Custos
 $config['kod']['1']['zl'] = 'X,XX';
 $config['kod']['2']['zl'] = 'X,XX';
 $config['kod']['3']['zl'] = 'XX,XX';

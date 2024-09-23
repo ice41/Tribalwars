@@ -310,7 +310,7 @@ echo $error3;
 
 <h2>Support</h2>
 <a href="game.php?village=<?php echo $this->_tpl_vars['village']['id']; ?>
-&screen=support&do=new_ticket"><img style="border:1px;" src="../graphic/support/ticket.gif" /></a> 
+&screen=support&do=new_ticket"><img style="border:1px;" src="../ds_graphic/support/ticket.gif" /></a> 
 <br>
 
 <table class="vis" width="700">

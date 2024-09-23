@@ -72,7 +72,7 @@ $check=fgetcsv($handle,1024);
 fclose($handle);
 $licencja = $check[0];
 if ($licencja == 'false' && !$panel_admina) {
-die ('Usługi premium które wykupiłeś dla strony nie istnieją lub wygasły! Przejdź do <a href="admin.php">Panelu admina</a> aby je wyłaczyć!');
+die ('Os serviços premium que adquiriu para o site não existem ou expiraram! Vá para <a href="admin.php">Painel de administração</a> para desligá-los!');
 }
 }
 

@@ -7,7 +7,7 @@
 					<th width="180">Nome</th>
 					<th width="100">Tribo</th>
 					<th width="60">Pontos</th>
-					<th>Odznaczenia</th>
+					<th>Medalhas</th>
 				</tr>
 				{foreach from=$user_award_rangs item=userinfo}
 					<tr{if $userinfo.rang == $aktu} class="lit"{else}{if $userinfo.rang == $from || ($userinfo.ally == $ally && $ally != '-1')} class="lit2"{/if}{/if}>
