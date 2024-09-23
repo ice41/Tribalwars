@@ -205,7 +205,7 @@ $uid = $vg['userid'];
 $grafika = graficzka_mapki($uid,$bonus,$punkty);
 	if ($vg['userid'] == -1) {
 	$vg['userid'] = 0;
-	$vg['name'] = 'wioska barbarzy\u0144ska';
+	$vg['name'] = 'Aldeia bárbara';
 	}
 	$przecinek++;
 	$vgx = $vg['x'];

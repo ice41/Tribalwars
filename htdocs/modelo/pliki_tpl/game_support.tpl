@@ -303,7 +303,7 @@ echo $error3;
 {/php}
 
 <h2>Support</h2>
-<a href="game.php?village={$village.id}&screen=support&do=new_ticket"><img style="border:1px;" src="../graphic/support/ticket.gif" /></a> 
+<a href="game.php?village={$village.id}&screen=support&do=new_ticket"><img style="border:1px;" src="../ds_graphic/support/ticket.gif" /></a> 
 <br>
 
 <table class="vis" width="700">

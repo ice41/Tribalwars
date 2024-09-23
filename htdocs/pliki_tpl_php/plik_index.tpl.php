@@ -1,4 +1,4 @@
-<?php /* Wersja Smarty_class 2.6.26 Przeróbka By Bartekst221, Plik stworzony 2022-11-28 01:07:53
+<?php /* Wersja Smarty_class 2.6.26 Przeróbka By Bartekst221, Plik stworzony 2024-09-23 01:35:14
          Wersja PHP pliku pliki_tpl/index.tpl */ ?>
 <?php if (! $this->_tpl_vars['p_l']): ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -381,7 +381,7 @@ $(function() {
 
 	<div id="world_selection" class="ar_login" style="display: none;">
 		<a href="#" onclick="$('#world_selection').hide();return false;" class="login_close">
-			<img src="graphic/index/login_close.png" alt="Zamkn��" style="border:none" />
+			<img src="graphic/index/login_close.png" alt="Fechar" style="border:none" />
 		</a>
 		<div class="servers-list-top"></div>
 		<div id="servers-list-block"></div>
@@ -475,9 +475,9 @@ $(function() {
 				<?php endif; ?></div><!-- footer -->
 			
 							<div class="closure">
-							Traduzido e revisado by ice41 | Motor Tribos PL-Lan Versão 8.3 &copy;
+							Traduzido e revisado by ice41 | Motor Tribos PL-Lan Versão 8.4 &copy;
 							<br>
-				&copy; 2009 - 2022
+				&copy; 2009 - 2024
 				<a target="_blank" href="https://www.ice41.pt">ice41</a> &middot;
 				<div id="screenshot" style="display:none" onclick="Index.hide_screenshot();">
 				<div id="screenshot_image"></div>

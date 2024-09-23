@@ -61,9 +61,9 @@
     <div class="container-top-full"></div>
     <div class="container">
       <div class="info-block register">
-        <h2 class="register">
+        <h3 class="register">
          Equipa
-        </h2>
+        </h3>
 
         <h3 style="font-weight: bold;">
           Dúvidas sobre o jogo devem ser direcionadas apenas através sistema de Suporte!<br />

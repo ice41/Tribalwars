@@ -127,7 +127,7 @@ Aqui você pode editar as opções padrão do servidor e também excluir um serv
 			<th>Zasi�g szlachty</th>
 			<th>Noc</th>
 			<th>Recrutar graczy</th>
-			<th>Odznaczenia</th>
+			<th>Medalhas</th>
 			<th>Akcje</th>
 		</tr>
 		{foreach from=$serwery key=id item=info}

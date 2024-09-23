@@ -66,7 +66,7 @@ $this->_tpl_vars['aktu_build_prc'] = $this->_tpl_vars['village'][$this->_tpl_var
 									<td>{$recruit_units.$key.countdown|format_time}</td>
 								{/if}
 								<td>{$pl->format_date($recruit_units.$key.time_finished)}</td>
-								<td><a href="game.php?village={$village.id}&amp;screen={$dbname}&amp;action=cancel&amp;id={$key}&amp;h={$hkey}">Enviar tropas</a></td>
+								<td><a href="game.php?village={$village.id}&amp;screen={$dbname}&amp;action=cancel&amp;id={$key}&amp;h={$hkey}">Cancelar</a></td>
 							</tr>
 						{/foreach}
 					</table>

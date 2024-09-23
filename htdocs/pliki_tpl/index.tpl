@@ -376,7 +376,7 @@ $(function() {ldelim}
 
 	<div id="world_selection" class="ar_login" style="display: none;">
 		<a href="#" onclick="$('#world_selection').hide();return false;" class="login_close">
-			<img src="graphic/index/login_close.png" alt="Zamkn��" style="border:none" />
+			<img src="graphic/index/login_close.png" alt="Fechar" style="border:none" />
 		</a>
 		<div class="servers-list-top"></div>
 		<div id="servers-list-block"></div>
@@ -465,9 +465,9 @@ $(function() {ldelim}
 				{/if}</div><!-- footer -->
 			
 							<div class="closure">
-							Traduzido e revisado by ice41 | Motor Tribos PL-Lan Versão 8.3 &copy;
+							Traduzido e revisado by ice41 | Motor Tribos PL-Lan Versão 8.4 &copy;
 							<br>
-				&copy; 2009 - 2022
+				&copy; 2009 - 2024
 				<a target="_blank" href="https://www.ice41.pt">ice41</a> &middot;
 				<div id="screenshot" style="display:none" onclick="Index.hide_screenshot();">
 				<div id="screenshot_image"></div>

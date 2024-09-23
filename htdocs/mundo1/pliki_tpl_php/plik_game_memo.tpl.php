@@ -1,4 +1,4 @@
-<?php /* Wersja Smarty_class 2.6.26 Przeróbka By Bartekst221, Plik stworzony 2023-02-26 21:26:52
+<?php /* Wersja Smarty_class 2.6.26 Przeróbka By Bartekst221, Plik stworzony 2024-09-23 02:06:28
          Wersja PHP pliku pliki_tpl/game_memo.tpl */ ?>
 
 <?php if (! empty ( $this->_tpl_vars['error'] )): ?>
@@ -31,15 +31,53 @@
 <input id="rename_tab_prompt" value="Nome da nova guia:" type="hidden">
 
 <div id="tab-bar">
-			<div id="tab_<?php echo $this->_tpl_vars['user']['id']; ?>
-" class="memo-tab  memo-tab-selected"><span class="memo-tab-label"><strong>Nova aba</strong></span></div>
+			<script type="text/javascript">
+function memoEdit() {
+	gid("show_row").style.display = 'none';
+	gid("edit_link").style.display = 'none';
+	gid("edit_row").style.display = '';
+	gid("submit_row").style.display = '';
+}
+</script>
+
+
+<noscript>
+	<form action="game.php?village=<?php echo $this->_tpl_vars['village']['id']; ?>
+&amp;screen=memo&amp;action=edit&amp;h=<?php echo $this->_tpl_vars['hkey']; ?>
+" method="post">
+	<table class="vis" width="100%">
+	<tr><td colspan="2"><?php echo $this->_tpl_vars['memo']['output']; ?>
+</td></tr>
+	<tr><td colspan="2"><textarea name="memo" cols="80" rows="25"><?php echo $this->_tpl_vars['memo']['output_textarea']; ?>
+</textarea></td></tr>
+	<tr><td><input type="submit" value="Aplica" /></td><td align="right"></td></tr>
+	</table>
+	</form>
+</noscript>
+
+<div id="memo_script" style="display:none">
+
+<form action="game.php?village=<?php echo $this->_tpl_vars['village']['id']; ?>
+&amp;screen=memo&amp;action=edit&amp;h=<?php echo $this->_tpl_vars['hkey']; ?>
+" method="post">
+<table class="vis" width="100%">
+<tr id="show_row"><td colspan="2"><?php echo $this->_tpl_vars['memo']['output']; ?>
+</td></tr>
+<tr id="edit_row" style="display:none"><td colspan="2"><textarea name="memo" cols="80" rows="25"><?php echo $this->_tpl_vars['memo']['output_textarea']; ?>
+</textarea></td></tr>
+<tr id="submit_row" style="display:none"><td><input type="submit" value="Guardar" /></td><td align="right"></td></tr>
+</table>
+</form>
+</div>
+<script type="text/javascript">
+gid("memo_script").style.display = '';
+</script>
 	</div>
 
 <div id="memo_<?php echo $this->_tpl_vars['user']['id']; ?>
 " class="memo_container" style="">
 <div class="memo_script" style="clear: both;">
-					<a class="btn edit_link" href="#" onclick="Memo.toggleEdit(); return false">Editar</a>
-		<a class="btn rename_link" href="#" onclick="Memo.renameTab(); return false">Renomear</a>
+					<a class="btn rename_link" id="edit_link" href="javascript:memoEdit()">	Editar</a><br />
 		
 		<br>
 	

@@ -1,10 +1,10 @@
-<?php
+ï»¿<?php
 $modes = array (
 	'Perfil' => 'Perfile',
-	'Definições' => 'settings',
-	'Endereço de E-Mail' => 'email',
+	'DefiniÃ§Ãµes' => 'settings',
+	'E-mail' => 'email',
 	'Alterar senha' => 'change_passwd',
-	'Recomeçar' => 'move',
+	'RecomeÃ§ar' => 'move',
 	'Apagar conta' => 'delete',
 	'Medalhas' => 'award',
 	'Logins' => 'logins',
@@ -12,7 +12,7 @@ $modes = array (
 	);
 	
 if ($config['awards']) {
-	$modes['Odznaczenia'] = 'award';
+	$modes['Medalhas'] = 'award';
 	}
 	
 $tpl->assign('links',$modes);
