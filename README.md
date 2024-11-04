@@ -27,7 +27,7 @@
     <img src="https://cdn.discordapp.com/attachments/1074126570920345740/1243687894552674437/NPEDLOGO2023-sem_fundo2.1.png?ex=6724009c&is=6722af1c&hm=f9a1471bf54f0e13dd3d9413c453c08d513d02c367824895c9085bab21c2d246&" alt="Logo" width="140" height="180">
   </a>
   <br>
-<img src="https://img.shields.io/github/downloads/ice41/Tribalwars/total)" alt=""/>
+<img src="https://img.shields.io/github/downloads/ice41/Tribalwars/total" alt=""/>
 <img src="https://img.shields.io/github/languages/count/ice41/Tribalwars" alt=""/>
 <img src="https://img.shields.io/github/languages/top/ice41/Tribalwars?color=yellow" alt=""/>
 <img src="https://img.shields.io/bitbucket/issues/ice41/Tribalwars" alt=""/>
@@ -111,49 +111,33 @@ Plugins verificados
 
 
 
-<!-- CONTACT -->
-## Contatos
-
-ice41 - geral@ice41.pt
-
-Project Link: [minecraft-1.21-NPED](https://github.com/ice41/minecraft-1.21-NPED)
-
-## Contato para esta versão Ice41
-- **Comercial: geral@ice41.pt**
-- **Discord: https://discord.gg/Qsr9s6x9Mv**
-- **Website: https://ice41.pt**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<details align="center">
+  <summary><b>Github Stats 📈</b></summary>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice41&show_icons=true&theme=dark)
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ice41/Vrpex-ice41-2.4.svg?style=for-the-badge
-[contributors-url]: https://github.com/ice41/Vrpex-ice41-2.4/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ice41/Vrpex-ice41-2.4.svg?style=for-the-badge
-[forks-url]: https://github.com/ice41/Vrpex-ice41-2.4/network/members
-[stars-shield]: https://img.shields.io/github/stars/ice41/Vrpex-ice41-2.4.svg?style=for-the-badge
-[stars-url]: https://github.com/ice41/Vrpex-ice41-2.4/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ice41/Vrpex-ice41-2.4.svg?style=for-the-badge
-[issues-url]: https://github.com/ice41/Vrpex-ice41-2.4/issues
-[license-shield]: https://img.shields.io/github/license/ice41/Vrpex-ice41-2.4.svg?style=for-the-badge
-[license-url]: https://github.com/ice41/Vrpex-ice41-2.4/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ice41&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+</details>
+<p align="center">
+  <a href="https://discord.com/users/261642084463804416/"><img src="https://discord.c99.nl/widget/theme-1/261642084463804416.png" /></a><br>
+</p>
+
+
+
+
+<h3 align="center"> Contactos NPED </h3>
+<div id="nped" align="center">
+  <a href="https://discord.gg/Qsr9s6x9Mv">
+    <img alt="Discord" src="https://img.shields.io/discord/1074111566217220176?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FQsr9s6x9Mv">
+  </a>
+<br>
+  <a href="https://nped.pt">
+      <img alt="Website" src="https://img.shields.io/badge/website-NPED-blue">
+  </a>
+<br>
+  <a href="https://steamcommunity.com/groups/Nped">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NPED_STEAM_GROUP-2A2BE8">
+  </a>
+</div>
