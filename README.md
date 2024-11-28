@@ -60,7 +60,7 @@
 # NPED Tribalwars -
 - **Aqui pode encontrar diversas versão de servidor de tribalwars**
 - **Apenas a 8.3 tem a garantia das traduções a 98% correctas feitas por ice41**.
-- **Ice41 realizou deiversos projectos em servidores de Portugal e Brasil sendo Gestor e programador do servidor**.
+- **Ice41 realizou diversos projectos em servidores de Portugal e Brasil sendo Gestor e programador do servidor**.
 
 ### Instalação
 
