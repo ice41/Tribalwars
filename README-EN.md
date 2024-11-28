@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/bitbucket/issues/ice41/Tribalwars" alt=""/>
 <img src="https://img.shields.io/github/forks/ice41/Tribalwars?style=social" alt=""/>
 <img src="https://img.shields.io/github/stars/ice41/Tribalwars?style=social" alt=""/>
-<h3 align="center">Tribalwars versões</h3>
+<h3 align="center">Tribalwars Versions</h3>
 
   <p align="center">
     project_description
