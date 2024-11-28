@@ -86,7 +86,7 @@ Caso o download da base esteja corrompendo, baixe utilizando o [GitHub Desktop](
 |---|---|---|
 |:x:|:white_circle:|:heavy_check_mark:|
 
-Plugins verificados 
+Versões verificadas 
 
 - :x: 7.0 PL
 - :x: 7.1 PL
