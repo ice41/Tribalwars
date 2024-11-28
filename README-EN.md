@@ -86,7 +86,7 @@ If the base download is corrupting, download using the [GitHub Desktop](https://
 |---|---|---|
 |:x:|:white_circle:|:heavy_check_mark:|
 
-Plugins verificados 
+Versions Verified:
 
 - :x: 7.0 PL
 - :x: 7.1 PL
