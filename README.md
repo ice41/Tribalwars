@@ -36,7 +36,7 @@
 <h3 align="center">Tribalwars versões</h3>
 
   <p align="center">
-    project_description
+    <a href="https://github.com/ice41/Tribalwars/blob/main/README-EN.md">Readme in English</a>
     <br />
     <a href="https://github.com/ice41/Tribalwars"><strong>Explore the docs »</strong></a>
     <br />
