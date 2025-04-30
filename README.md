@@ -90,7 +90,7 @@ Versões verificadas
 
 - :x: 7.0 PL
 - :x: 7.1 PL
-- :x: 8.0 PL
+- :x: 8.0 PL [Original Version](https://1024terabox.com/s/1HQaWFNGiL40WyRFCM5654A)
 - :x: 8.1 PL
 - :x: 8.2 PL
 - :x: 8.3 PL [Original Version](https://1024terabox.com/s/1NEsPeDTw182M4zGpcN4vLA)
