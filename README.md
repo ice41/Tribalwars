@@ -38,6 +38,7 @@
   <p align="center">
     <a href="https://github.com/ice41/Tribalwars/blob/main/README-EN.md">Readme in English</a>
     <br />
+    <br />
     <a href="https://github.com/ice41/Tribalwars"><strong>Explore the docs »</strong></a>
     <br />
     <br />
