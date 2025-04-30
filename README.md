@@ -87,12 +87,12 @@ Caso o download da base esteja corrompendo, baixe utilizando o [GitHub Desktop](
 |:x:|:white_circle:|:heavy_check_mark:|
 
 Versões verificadas 
-
-- :x: 7.0 PL
+- :x: 6.0 PL https://1024terabox.com/s/1b8sXsidb1CVgEGXW4OrYBA
+- :x: 7.0 PL [Original Version](https://1024terabox.com/s/1BbCgwAOEG9WZZSp-Vfal4Q)
 - :x: 7.1 PL
 - :x: 8.0 PL [Original Version](https://1024terabox.com/s/1HQaWFNGiL40WyRFCM5654A)
 - :x: 8.1 PL
-- :x: 8.2 PL
+- :x: 8.2 PL [Original Version](https://1024terabox.com/s/1Y075yuV6Yn9h4Vd_rR8oAw)
 - :x: 8.3 PL [Original Version](https://1024terabox.com/s/1NEsPeDTw182M4zGpcN4vLA)
 - :heavy_check_mark: 8.3 PT
 - :white_circle: 8.4 PL [Original Version](https://1024terabox.com/s/1Tr73OflwRNzHrmal2PW4sA)
