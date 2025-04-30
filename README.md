@@ -93,8 +93,9 @@ Versões verificadas
 - :x: 8.0 PL
 - :x: 8.1 PL
 - :x: 8.2 PL
+- :x: 8.3 PL [Original Version](https://1024terabox.com/s/1NEsPeDTw182M4zGpcN4vLA)
 - :heavy_check_mark: 8.3 PT
-- :white_circle: 8.4 PL
+- :white_circle: 8.4 PL [Original Version](https://1024terabox.com/s/1Tr73OflwRNzHrmal2PW4sA)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
