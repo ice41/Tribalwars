@@ -87,7 +87,7 @@ Caso o download da base esteja corrompendo, baixe utilizando o [GitHub Desktop](
 |:x:|:white_circle:|:heavy_check_mark:|
 
 Versões verificadas 
-- :x: 6.0 PL https://1024terabox.com/s/1b8sXsidb1CVgEGXW4OrYBA
+- :x: 6.0 PL [Original Version](https://1024terabox.com/s/1b8sXsidb1CVgEGXW4OrYBA)
 - :x: 7.0 PL [Original Version](https://1024terabox.com/s/1BbCgwAOEG9WZZSp-Vfal4Q)
 - :x: 7.1 PL
 - :x: 8.0 PL [Original Version](https://1024terabox.com/s/1HQaWFNGiL40WyRFCM5654A)
