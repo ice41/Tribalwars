@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ice41/Tribalwars">
-    <img src="https://media.discordapp.net/attachments/1074126570920345740/1243687894552674437/NPEDLOGO2023-sem_fundo2.1.png?ex=681348dc&is=6811f75c&hm=0843e103ff0c2fc0c452c2e830d6def881d31cc60fee3ccb7357183570b210d7&=&format=webp&quality=lossless" alt="Logo" width="140" height="180">
+    <img src="https://i.imgur.com/yn3xIOi.png" alt="Nped" width="140" height="180">
   </a>
   <br>
 <img src="https://img.shields.io/github/downloads/ice41/Tribalwars/total" alt=""/>
