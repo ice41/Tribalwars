@@ -105,9 +105,9 @@ Versões verificadas
 
 <!-- CONTRIBUTING -->
 ## Sobre
-- Apenas a versão 8.3 foi considerada por mim a mais estável.
+- Apenas a versão 8.3.1 foi considerada por mim a mais estável.
 - Algumas modificações foram feitas por mim com base em servers de portugal.
-- Pode buscar suporte no discord da NPED [Discord](https://discord.gg/CxTTt5F6Gj).
+- Se gostas do meu trabalhao ajuda o nosso discord a crescer. NPED [Discord](https://discord.gg/CxTTt5F6Gj).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
