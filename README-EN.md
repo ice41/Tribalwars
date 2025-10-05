@@ -106,6 +106,7 @@ Versions Verified:
 - Only version 8.3 was considered by me to be the most stable.
 - Some modifications were made by me based on Portuguese servers.
 - You can seek support on the NPED discord [Discord](https://discord.gg/CxTTt5F6Gj).
+- If you like this work help our community NPED grow up.  [Discord](https://discord.gg/CxTTt5F6Gj).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
