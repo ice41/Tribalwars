@@ -54,7 +54,7 @@
     <br />
     <br />
     .
-    <a href="https://github.com/ice41/Noblewars">Novo Engine Noblewars</a>
+    <a href="https://github.com/ice41/Noblewars">![WEB](https://img.shields.io/badge/Novo-Motor-brightgreen?style=for-the-badge)</a>
     .
   </p>
 </div>
