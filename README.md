@@ -27,7 +27,7 @@
     <img src="https://i.imgur.com/yn3xIOi.png" alt="Nped" width="140" height="180">
   </a>
   <br>
-<img src="https://img.shields.io/github/downloads/ice41/Tribalwars/total" alt=""/>
+<img src="https://img.shields.io/github/downloads/ice41/Tribalwars/tree/main" alt=""/>
 <img src="https://img.shields.io/github/languages/count/ice41/Tribalwars" alt=""/>
 <img src="https://img.shields.io/github/languages/top/ice41/Tribalwars?color=yellow" alt=""/>
 <img src="https://img.shields.io/bitbucket/issues/ice41/Tribalwars" alt=""/>
@@ -48,6 +48,7 @@
     <a href="https://github.com/ice41/Tribalwars/tree/8.2">Versão 8.2</a>
     <a href="https://github.com/ice41/Tribalwars/tree/8.3">Versão 8.3</a>
     <a href="https://github.com/ice41/Tribalwars/tree/8.4">Versão 8.4</a>
+    <a href="https://github.com/ice41/Tribalwars/tree/2026">Versão 2026 Noblewars</a>
     ·
     <a href="https://github.com/ice41/Tribalwars/issues">Report Bug</a>
     ·
