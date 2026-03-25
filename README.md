@@ -54,7 +54,7 @@
     <br />
     <br />
     .
-    <a href="https://github.com/ice41/Noblewars">![WEB](https://img.shields.io/badge/Oficial-site-brightgreen?style=for-the-badge)</a>
+    <a href="https://github.com/ice41/Noblewars/">![WEB](https://img.shields.io/badge/New-Engine-brightgreen?style=for-the-badge)</a>
     .
   </p>
 </div>
