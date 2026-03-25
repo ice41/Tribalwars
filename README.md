@@ -47,8 +47,8 @@
     <a href="https://github.com/ice41/Tribalwars/tree/8.0">Versão 8.0</a>
     <a href="https://github.com/ice41/Tribalwars/tree/8.2">Versão 8.2</a>
     <a href="https://github.com/ice41/Tribalwars/tree/8.3">Versão 8.3</a>
-    <a href="https://github.com/ice41/Tribalwars/tree/8.4">Versão 8.4</a>
-    <a href="https://github.com/ice41/Tribalwars/tree/2026">Versão 2026 Noblewars</a>
+    <a href="https://github.com/ice41/Tribalwars/tree/8.4">Versão 8.4</a> 
+    <a href="https://github.com/ice41/Noblewars">Novo Engine Noblewars</a>
     ·
     <a href="https://github.com/ice41/Tribalwars/issues">Report Bug</a>
     ·
