@@ -18,8 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-
+<a href="https://github.com/ice41/Noblewars/">![WEB](https://img.shields.io/badge/Veja_o_novo-Noblewars_Engine-blue?style=for-the-badge)</a>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -53,12 +52,9 @@
     <a href="https://github.com/ice41/Tribalwars/issues">Request Feature</a>
     <br />
     <br />
-    .
-    <a href="https://github.com/ice41/Noblewars/">![WEB](https://img.shields.io/badge/New-Engine-brightgreen?style=for-the-badge)</a>
-    .
   </p>
+  
 </div>
-
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
