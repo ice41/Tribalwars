@@ -51,8 +51,9 @@
     <a href="https://github.com/ice41/Tribalwars/issues">Report Bug</a>
     ·
     <a href="https://github.com/ice41/Tribalwars/issues">Request Feature</a>
-    .
-      <a href="https://github.com/ice41/Noblewars">Novo Engine Noblewars</a>
+    <br />
+    <br />
+    <a href="https://github.com/ice41/Noblewars">Novo Engine Noblewars</a>
     ·
   </p>
 </div>
