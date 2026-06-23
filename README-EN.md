@@ -18,47 +18,41 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<div align="center">
 
-<a href="https://github.com/ice41/Noblewars/">![WEB](https://img.shields.io/badge/See_new-Noblewars_Engine-blue?style=for-the-badge)</a>
+![PHP](https://img.shields.io/badge/php_8.3.0-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br /><br />
+
+<a href="https://github.com/ice41/Noblewars/">![WEB](https://img.shields.io/badge/Veja_o_novo-Noblewars_Engine-blue?style=for-the-badge)</a>
 <a href="http://noblewars.ice41.pt"> ![WEB](https://img.shields.io/badge/Open-Alpha-brightgreen?style=for-the-badge) </a>
+
+</div>
 <!-- PROJECT LOGO -->
-<br />
+
 <div align="center">
   <a href="https://github.com/ice41/Tribalwars">
     <img src="https://i.imgur.com/yn3xIOi.png" alt="Nped" width="140" height="180">
   </a>
-  <br>
+  <br />
+  <br />
 <img src="https://img.shields.io/github/downloads/ice41/Tribalwars/total" alt=""/>
 <img src="https://img.shields.io/github/languages/count/ice41/Tribalwars" alt=""/>
-<img src="https://img.shields.io/github/languages/top/ice41/Tribalwars?color=yellow" alt=""/>
+<img src="https://img.shields.io/github/languages/top/ice41/Tribalwars?color=blue" alt=""/>
 <img src="https://img.shields.io/bitbucket/issues/ice41/Tribalwars" alt=""/>
 <img src="https://img.shields.io/github/forks/ice41/Tribalwars?style=social" alt=""/>
 <img src="https://img.shields.io/github/stars/ice41/Tribalwars?style=social" alt=""/>
-<h3 align="center">Tribalwars Versions</h3>
-
+<br />
+<br />
+<br />
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/ice41/Tribalwars"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ice41/Tribalwars/blob/main/README.md">Readme in Portuguese</a>
     <br />
     <br />
-    <a href="https://github.com/ice41/Tribalwars/tree/7.0">Version 7.0</a>
-    <a href="https://github.com/ice41/Tribalwars/tree/7.1">Version 7.1</a>
-    <a href="https://github.com/ice41/Tribalwars/tree/8.0">Version 8.0</a>
-    <a href="https://github.com/ice41/Tribalwars/tree/8.2">Version 8.2</a>
-    <a href="https://github.com/ice41/Tribalwars/tree/8.3">Version 8.3</a>
-    <a href="https://github.com/ice41/Tribalwars/tree/8.4">Version 8.4</a>
-    ·
-    <a href="https://github.com/ice41/Tribalwars/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ice41/Tribalwars/issues">Request Feature</a>
-    <br />
-    <br />
-    .
-    <a href="https://github.com/ice41/Noblewars">New Engine Noblewars</a>
-    .
   </p>
+  
 </div>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
@@ -94,13 +88,17 @@ If the base download is corrupting, download using the [GitHub Desktop](https://
 
 Versions Verified:
 
-- :x: 7.0 PL
-- :x: 7.1 PL
-- :x: 8.0 PL
-- :x: 8.1 PL
-- :x: 8.2 PL
-- :heavy_check_mark: 8.3 PT
-- :white_circle: 8.4 PL
+- :x: <a href="https://github.com/ice41/Tribalwars/tree/6.0" title="click to go to version" >6.0 pl-PL</a> -    - [Original Version](https://1024terabox.com/s/1b8sXsidb1CVgEGXW4OrYBA)
+- :x: <a href="https://github.com/ice41/Tribalwars/tree/7.0" title="click to go to version" >7.0 pl-PL</a> -    - [Original Version](https://1024terabox.com/s/1BbCgwAOEG9WZZSp-Vfal4Q)
+- :x: <a href="https://github.com/ice41/Tribalwars/tree/7.1" title="click to go to version" >7.1 pl-PL</a>
+- :x: <a href="https://github.com/ice41/Tribalwars/tree/8.0" title="click to go to version" >8.0 pl-PL</a> -    - [Original Version](https://1024terabox.com/s/1HQaWFNGiL40WyRFCM5654A)
+- :x: <a href="https://github.com/ice41/Tribalwars/tree/8.1" title="click to go to version" >8.1 pl-PL</a>
+- :x: <a href="https://github.com/ice41/Tribalwars/tree/8.2" title="click to go to version" >8.2 pl-PL</a> -    - [Original Version](https://1024terabox.com/s/1Y075yuV6Yn9h4Vd_rR8oAw)
+- :x: <a href="https://github.com/ice41/Tribalwars/tree/8.3" title="click to go to version" >8.3 pl-PL</a> -    - [Original Version](https://1024terabox.com/s/1NEsPeDTw182M4zGpcN4vLA)
+- :heavy_check_mark: <a href="https://github.com/ice41/Tribalwars/tree/8.3" title="click to go to version" >8.3 pt-PT</a>
+- :heavy_check_mark: <a href="https://github.com/ice41/Tribalwars/tree/8.3.1" title="click to go to version" >8.3.1 pt-PT</a>
+- :white_circle: <a href="https://github.com/ice41/Tribalwars/tree/8.4" title="click to go to version" >8.4 pl-PL</a> -    - [Original Version](https://1024terabox.com/s/1Tr73OflwRNzHrmal2PW4sA)
+- :white_circle: <a href="https://github.com/ice41/NobleWars" title="click to go to new version" >Noblewars 2026 version</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -140,18 +138,18 @@ Versions Verified:
 <br>
 </div>
 
-  <div align="center">
+ <div align="center">
     <table border="-10" style="border-collapse: collapse; border: none;">
       <tr>
-        <td><a href="https://www.facebook.com/nped.pt.official/"><img src="https://i.imgur.com/jrIFEX1.png" height="30" width="30" alt="facebook NPED" title="Facebook NPED"></a></td>
-        <td><a href="https://www.instagram.com/nped.pt/"><img src="https://i.imgur.com/aNF8H7x.png" height="30" width="30" alt="Instagram NPED" title="Instagram NPED"></a></td>
-        <td><a href="#"><img src="https://i.imgur.com/MPYqzXV.png" height="30" width="30" alt="X NPED" title="X NPED"></a></td>
-        <td><a href="https://discord.gg/CxTTt5F6Gj"><img src="https://i.imgur.com/tn4xcXv.png" height="30" width="30" alt="Discord Nped" title="Discord Nped"></a></td>
-        <td><a href="https://github.com/npedpt"><img src="https://i.imgur.com/tc6JSoR.png" height="30" width="30" alt="Github Nped" title="Github Nped"></a></td>
-        <td><a href="https://whatsapp.com/channel/0029VaKsOhhKLaHjpiVDHY3q"><img src="https://i.imgur.com/Qx9VA8Y.png" height="30" width="30" alt="Whatsapp Group NPED" title="Whatsapp Group NPED"></a></td>
-        <td><a href="#"><img src="https://i.imgur.com/l8vUn0y.png" height="30" width="30" alt="Youtube" title="Youtube NPED"></a></td>
-        <td><a href="https://nped.pt"><img src="https://i.imgur.com/7AbqJU4.png" height="30" width="30" alt="WebPage NPED" title="WebPage NPED"></a></td>
-        <td><a href="https://steamcommunity.com/groups/Nped"><img src="https://i.imgur.com/ztzOF0u.png" height="30" width="30" alt="Steam Group NPED" title="Steam Group NPED"></a></td>
+        <td><a href="https://www.facebook.com/nped.pt.official/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook NPED" title="Facebook NPED"></a></td>
+        <td><a href="https://www.instagram.com/nped.pt/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram NPED" title="Instagram NPED"></a></td>
+        <td><a href="#"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X NPED" title="X NPED"></a></td>
+        <td><a href="https://discord.gg/CxTTt5F6Gj"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Nped" title="Discord Nped"></a></td>
+        <td><a href="https://github.com/npedpt"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Nped" title="Github Nped"></a></td>
+        <td><a href="https://whatsapp.com/channel/0029VaKsOhhKLaHjpiVDHY3q"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Group NPED" title="Whatsapp Group NPED"></a></td>
+        <td><a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube" title="Youtube NPED"></a></td>
+        <td><a href="https://nped.pt"><img src="https://img.shields.io/badge/web-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D"  alt="WebPage NPED" title="WebPage NPED"></a></td>
+        <td><a href="https://steamcommunity.com/groups/Nped"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Group NPED" title="Steam Group NPED"></a></td>
       </tr>
     </table>
   </div>
