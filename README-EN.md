@@ -98,7 +98,7 @@ Versions Verified:
 - :heavy_check_mark: <a href="https://github.com/ice41/Tribalwars/tree/8.3" title="click to go to version" >8.3 pt-PT</a>
 - :heavy_check_mark: <a href="https://github.com/ice41/Tribalwars/tree/8.3.1" title="click to go to version" >8.3.1 pt-PT</a>
 - :white_circle: <a href="https://github.com/ice41/Tribalwars/tree/8.4" title="click to go to version" >8.4 pl-PL</a> -    - [Original Version](https://1024terabox.com/s/1Tr73OflwRNzHrmal2PW4sA)
-- :white_circle: <a href="https://github.com/ice41/NobleWars" title="click to go to new version" >Noblewars 2026 version</a>
+- :heavy_check_mark: <a href="https://github.com/ice41/NobleWars" title="click to go to new version" >Noblewars 2026 version</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
