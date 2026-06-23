@@ -19,6 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <a href="https://github.com/ice41/Noblewars/">![WEB](https://img.shields.io/badge/Veja_o_novo-Noblewars_Engine-blue?style=for-the-badge)</a>
+<a href="http://noblewars.ice41.pt"> ![WEB](https://img.shields.io/badge/Open-Alpha-brightgreen?style=for-the-badge) </a>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
